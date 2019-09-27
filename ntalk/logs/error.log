@@ -1,0 +1,2180 @@
+Fri, 27 Sep 2019 01:44:36 GMT express:application set "x-powered-by" to true
+Fri, 27 Sep 2019 01:44:36 GMT express:application set "x-powered-by" to true
+Fri, 27 Sep 2019 01:44:36 GMT express:application set "x-powered-by" to true
+Fri, 27 Sep 2019 01:44:36 GMT express:application set "x-powered-by" to true
+Fri, 27 Sep 2019 01:44:36 GMT express:application set "etag" to 'weak'
+Fri, 27 Sep 2019 01:44:36 GMT express:application set "etag" to 'weak'
+Fri, 27 Sep 2019 01:44:36 GMT express:application set "etag" to 'weak'
+Fri, 27 Sep 2019 01:44:36 GMT express:application set "etag fn" to [Function: generateETag]
+Fri, 27 Sep 2019 01:44:36 GMT express:application set "etag fn" to [Function: generateETag]
+Fri, 27 Sep 2019 01:44:36 GMT express:application set "env" to 'development'
+Fri, 27 Sep 2019 01:44:36 GMT express:application set "etag" to 'weak'
+Fri, 27 Sep 2019 01:44:36 GMT express:application set "env" to 'development'
+Fri, 27 Sep 2019 01:44:36 GMT express:application set "query parser" to 'extended'
+Fri, 27 Sep 2019 01:44:36 GMT express:application set "query parser" to 'extended'
+Fri, 27 Sep 2019 01:44:36 GMT express:application set "query parser fn" to [Function: parseExtendedQueryString]
+Fri, 27 Sep 2019 01:44:36 GMT express:application set "query parser fn" to [Function: parseExtendedQueryString]
+Fri, 27 Sep 2019 01:44:36 GMT express:application set "subdomain offset" to 2
+Fri, 27 Sep 2019 01:44:36 GMT express:application set "trust proxy" to false
+Fri, 27 Sep 2019 01:44:36 GMT express:application set "subdomain offset" to 2
+Fri, 27 Sep 2019 01:44:36 GMT express:application set "trust proxy" to false
+Fri, 27 Sep 2019 01:44:36 GMT express:application set "trust proxy fn" to [Function: trustNone]
+Fri, 27 Sep 2019 01:44:36 GMT express:application booting in development mode
+Fri, 27 Sep 2019 01:44:36 GMT express:application set "view" to [Function: View]
+Fri, 27 Sep 2019 01:44:36 GMT express:application set "trust proxy fn" to [Function: trustNone]
+Fri, 27 Sep 2019 01:44:36 GMT express:application set "views" to '/Users/gustavolopes/Documents/Estudos/nodejs-casa-do-codigo/ntalk/views'
+Fri, 27 Sep 2019 01:44:36 GMT express:application booting in development mode
+Fri, 27 Sep 2019 01:44:36 GMT express:application set "jsonp callback name" to 'callback'
+Fri, 27 Sep 2019 01:44:36 GMT express:application set "etag fn" to [Function: generateETag]
+Fri, 27 Sep 2019 01:44:36 GMT express:application set "view" to [Function: View]
+Fri, 27 Sep 2019 01:44:36 GMT express:application set "env" to 'development'
+Fri, 27 Sep 2019 01:44:36 GMT express:application set "views" to '/Users/gustavolopes/Documents/Estudos/nodejs-casa-do-codigo/ntalk/views'
+Fri, 27 Sep 2019 01:44:36 GMT express:application set "jsonp callback name" to 'callback'
+Fri, 27 Sep 2019 01:44:36 GMT express:application set "query parser" to 'extended'
+Fri, 27 Sep 2019 01:44:36 GMT express:application set "etag fn" to [Function: generateETag]
+Fri, 27 Sep 2019 01:44:36 GMT express:application set "env" to 'development'
+Fri, 27 Sep 2019 01:44:36 GMT express:application set "query parser" to 'extended'
+Fri, 27 Sep 2019 01:44:36 GMT express:application set "query parser fn" to [Function: parseExtendedQueryString]
+Fri, 27 Sep 2019 01:44:36 GMT express:application set "query parser fn" to [Function: parseExtendedQueryString]
+Fri, 27 Sep 2019 01:44:36 GMT express:application set "subdomain offset" to 2
+Fri, 27 Sep 2019 01:44:36 GMT express:application set "subdomain offset" to 2
+Fri, 27 Sep 2019 01:44:36 GMT express:application set "trust proxy" to false
+Fri, 27 Sep 2019 01:44:36 GMT express:application set "trust proxy" to false
+Fri, 27 Sep 2019 01:44:36 GMT express:application set "trust proxy fn" to [Function: trustNone]
+Fri, 27 Sep 2019 01:44:36 GMT express:application set "trust proxy fn" to [Function: trustNone]
+Fri, 27 Sep 2019 01:44:36 GMT express:application booting in development mode
+Fri, 27 Sep 2019 01:44:36 GMT express:application booting in development mode
+Fri, 27 Sep 2019 01:44:36 GMT express:application set "view" to [Function: View]
+Fri, 27 Sep 2019 01:44:36 GMT express:application set "view" to [Function: View]
+Fri, 27 Sep 2019 01:44:36 GMT express:application set "views" to '/Users/gustavolopes/Documents/Estudos/nodejs-casa-do-codigo/ntalk/views'
+Fri, 27 Sep 2019 01:44:36 GMT express:application set "jsonp callback name" to 'callback'
+Fri, 27 Sep 2019 01:44:36 GMT express:application set "views" to '/Users/gustavolopes/Documents/Estudos/nodejs-casa-do-codigo/ntalk/views'
+Fri, 27 Sep 2019 01:44:36 GMT express:application set "jsonp callback name" to 'callback'
+2019-09-27T01:44:36.972Z socket.io:server initializing namespace /
+2019-09-27T01:44:36.972Z socket.io:server initializing namespace /
+2019-09-27T01:44:36.972Z socket.io:server initializing namespace /
+2019-09-27T01:44:36.973Z socket.io-parser encoding packet {"type":0,"nsp":"/"}
+2019-09-27T01:44:36.973Z socket.io:server initializing namespace /
+2019-09-27T01:44:36.973Z socket.io-parser encoded {"type":0,"nsp":"/"} as 0
+2019-09-27T01:44:36.973Z socket.io-parser encoding packet {"type":0,"nsp":"/"}
+2019-09-27T01:44:36.974Z socket.io:server creating engine.io instance with opts {"path":"/socket.io","initialPacket":["0"]}
+2019-09-27T01:44:36.974Z socket.io-parser encoded {"type":0,"nsp":"/"} as 0
+2019-09-27T01:44:36.974Z socket.io:server creating engine.io instance with opts {"path":"/socket.io","initialPacket":["0"]}
+2019-09-27T01:44:36.974Z socket.io-parser encoding packet {"type":0,"nsp":"/"}
+2019-09-27T01:44:36.975Z socket.io-parser encoding packet {"type":0,"nsp":"/"}
+2019-09-27T01:44:36.975Z socket.io-parser encoded {"type":0,"nsp":"/"} as 0
+2019-09-27T01:44:36.975Z socket.io-parser encoded {"type":0,"nsp":"/"} as 0
+2019-09-27T01:44:36.975Z socket.io:server creating engine.io instance with opts {"path":"/socket.io","initialPacket":["0"]}
+2019-09-27T01:44:36.975Z socket.io:server creating engine.io instance with opts {"path":"/socket.io","initialPacket":["0"]}
+2019-09-27T01:44:37.004Z socket.io:server attaching client serving req handler
+2019-09-27T01:44:37.004Z socket.io:server attaching client serving req handler
+2019-09-27T01:44:37.004Z socket.io:server attaching client serving req handler
+2019-09-27T01:44:37.004Z socket.io:server attaching client serving req handler
+Fri, 27 Sep 2019 01:44:37 GMT express:application set "x-powered-by" to false
+Fri, 27 Sep 2019 01:44:37 GMT express:application set "x-powered-by" to false
+Fri, 27 Sep 2019 01:44:37 GMT express:application set "x-powered-by" to false
+Fri, 27 Sep 2019 01:44:37 GMT express:application set "views" to '/Users/gustavolopes/Documents/Estudos/nodejs-casa-do-codigo/ntalk/views'
+Fri, 27 Sep 2019 01:44:37 GMT express:application set "view engine" to 'ejs'
+Fri, 27 Sep 2019 01:44:37 GMT express:application set "views" to '/Users/gustavolopes/Documents/Estudos/nodejs-casa-do-codigo/ntalk/views'
+Fri, 27 Sep 2019 01:44:37 GMT express:application set "views" to '/Users/gustavolopes/Documents/Estudos/nodejs-casa-do-codigo/ntalk/views'
+Fri, 27 Sep 2019 01:44:37 GMT express:application set "view engine" to 'ejs'
+Fri, 27 Sep 2019 01:44:37 GMT express:application set "view engine" to 'ejs'
+Fri, 27 Sep 2019 01:44:37 GMT express:router use '/' query
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router use '/' query
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router use '/' query
+Fri, 27 Sep 2019 01:44:37 GMT express:router use '/' expressInit
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:application set "x-powered-by" to false
+Fri, 27 Sep 2019 01:44:37 GMT express:router use '/' compression
+Fri, 27 Sep 2019 01:44:37 GMT express:application set "views" to '/Users/gustavolopes/Documents/Estudos/nodejs-casa-do-codigo/ntalk/views'
+Fri, 27 Sep 2019 01:44:37 GMT express:application set "view engine" to 'ejs'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router use '/' expressInit
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router use '/' compression
+Fri, 27 Sep 2019 01:44:37 GMT express:router use '/' query
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express-session deprecated undefined resave option; provide resave option at app.js:27:9
+Fri, 27 Sep 2019 01:44:37 GMT express-session deprecated undefined saveUninitialized option; provide saveUninitialized option at app.js:27:9
+Fri, 27 Sep 2019 01:44:37 GMT express:router use '/' expressInit
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router use '/' session
+Fri, 27 Sep 2019 01:44:37 GMT express-session deprecated undefined resave option; provide resave option at app.js:27:9
+Fri, 27 Sep 2019 01:44:37 GMT express:router use '/' compression
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express-session deprecated undefined saveUninitialized option; provide saveUninitialized option at app.js:27:9
+Fri, 27 Sep 2019 01:44:37 GMT express:router use '/' session
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express-session deprecated undefined resave option; provide resave option at app.js:27:9
+Fri, 27 Sep 2019 01:44:37 GMT express-session deprecated undefined saveUninitialized option; provide saveUninitialized option at app.js:27:9
+Fri, 27 Sep 2019 01:44:37 GMT express:router use '/' session
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router use '/' expressInit
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router use '/' compression
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express-session deprecated undefined resave option; provide resave option at app.js:27:9
+Fri, 27 Sep 2019 01:44:37 GMT express-session deprecated undefined saveUninitialized option; provide saveUninitialized option at app.js:27:9
+Fri, 27 Sep 2019 01:44:37 GMT express:router use '/' session
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router use '/' jsonParser
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router use '/' jsonParser
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router use '/' jsonParser
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router use '/' jsonParser
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT body-parser deprecated undefined extended: provide extended option at app.js:33:20
+Fri, 27 Sep 2019 01:44:37 GMT body-parser deprecated undefined extended: provide extended option at app.js:33:20
+Fri, 27 Sep 2019 01:44:37 GMT body-parser deprecated undefined extended: provide extended option at app.js:33:20
+Fri, 27 Sep 2019 01:44:37 GMT body-parser deprecated undefined extended: provide extended option at app.js:33:20
+Fri, 27 Sep 2019 01:44:37 GMT express:router use '/' urlencodedParser
+Fri, 27 Sep 2019 01:44:37 GMT express:router use '/' urlencodedParser
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router use '/' urlencodedParser
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router use '/' methodOverride
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router use '/' methodOverride
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router use '/' serveStatic
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router use '/' methodOverride
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router use '/' serveStatic
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router use '/' serveStatic
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router use '/' csrf
+Fri, 27 Sep 2019 01:44:37 GMT express:router use '/' csrf
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router use '/' <anonymous>
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router use '/' csrf
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router use '/' <anonymous>
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router use '/' urlencodedParser
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router use '/' methodOverride
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router use '/' serveStatic
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router use '/' csrf
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router use '/' <anonymous>
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router use '/' <anonymous>
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+2019-09-27T01:44:37.083Z socket.io:namespace removing initial packet
+2019-09-27T01:44:37.084Z socket.io:namespace removing initial packet
+2019-09-27T01:44:37.086Z socket.io:namespace removing initial packet
+2019-09-27T01:44:37.087Z socket.io:namespace removing initial packet
+Fri, 27 Sep 2019 01:44:37 GMT express:router:route new '/chat'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/chat'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:route new '/chat'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:route new '/chat'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/chat'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/chat'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:route get '/chat'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:route get '/chat'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:route get '/chat'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:route get '/chat'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:route get '/chat'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:route get '/chat'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:route new '/contatos'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:route new '/contatos'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/contatos'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:route get '/contatos'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:route new '/contatos'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/contatos'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:route get '/contatos'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:route get '/contatos'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:route get '/contatos'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:route new '/contato/:id'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:route new '/contato/:id'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/contato/:id'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/contato/:id'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:route get '/contato/:id'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:route get '/contato/:id'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:route get '/contato/:id'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:route get '/contato/:id'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:route new '/contato'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/contato'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:route post '/contato'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:route post '/contato'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:route new '/contato'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/contato'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:route post '/contato'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:route new '/contato/:id/editar'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:route post '/contato'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/contato/:id/editar'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:route get '/contato/:id/editar'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:route new '/contato/:id/editar'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/contato/:id/editar'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:route get '/contato/:id/editar'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:route new '/contato/:id'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/contato/:id'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:route get '/contato/:id/editar'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:route put '/contato/:id'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:route put '/contato/:id'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:route get '/contato/:id/editar'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:route new '/contato/:id'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/contato/:id'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:route new '/contato/:id'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:route delete '/contato/:id'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/contato/:id'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:route delete '/contato/:id'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:route put '/contato/:id'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:route put '/contato/:id'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/contatos'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:route get '/contatos'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:route new '/contato/:id'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/contato/:id'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:route get '/contatos'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:route delete '/contato/:id'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:route delete '/contato/:id'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:route new '/contato/:id'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/contato/:id'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:route new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:route get '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:route new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:route new '/entrar'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:route get '/contato/:id'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/entrar'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:route get '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:route post '/entrar'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:route new '/entrar'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/entrar'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:route new '/sair'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:route get '/contato/:id'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:route post '/entrar'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:route new '/sair'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/sair'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:route new '/contato'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:route get '/sair'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/contato'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/sair'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:route post '/contato'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:route get '/sair'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:route post '/contato'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:route new '/contato/:id/editar'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/contato/:id/editar'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:route get '/contato/:id/editar'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:route get '/contato/:id/editar'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:route new '/contato/:id'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/contato/:id'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:route put '/contato/:id'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:route put '/contato/:id'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:route new '/contato/:id'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/contato/:id'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:route delete '/contato/:id'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:route delete '/contato/:id'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router use '/' <anonymous>
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router use '/' <anonymous>
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router use '/' <anonymous>
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:route new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router use '/' <anonymous>
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:route get '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:route new '/entrar'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/entrar'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:route post '/entrar'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:route new '/sair'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/sair'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:route get '/sair'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router use '/' <anonymous>
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router use '/' <anonymous>
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+2019-09-27T01:44:37.771Z connect:redis Redis returned err { Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379 }
+2019-09-27T01:44:37.776Z connect:redis Redis returned err { Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379 }
+2019-09-27T01:44:37.777Z connect:redis Redis returned err { Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379 }
+events.js:174
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to localhost:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+Emitted 'error' event at:
+    at RedisClient.onError (/Users/gustavolopes/Documents/Estudos/nodejs-casa-do-codigo/ntalk/node_modules/socket.io-redis/index.js:118:12)
+    at RedisClient.emit (events.js:198:13)
+    at RedisClient.on_error (/Users/gustavolopes/Documents/Estudos/nodejs-casa-do-codigo/ntalk/node_modules/redis/index.js:406:14)
+    at Socket.<anonymous> (/Users/gustavolopes/Documents/Estudos/nodejs-casa-do-codigo/ntalk/node_modules/redis/index.js:279:14)
+    at Socket.emit (events.js:198:13)
+    at emitErrorNT (internal/streams/destroy.js:91:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:59:3)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+events.js:174
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to localhost:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+Emitted 'error' event at:
+    at RedisClient.onError (/Users/gustavolopes/Documents/Estudos/nodejs-casa-do-codigo/ntalk/node_modules/socket.io-redis/index.js:118:12)
+    at RedisClient.emit (events.js:198:13)
+    at RedisClient.on_error (/Users/gustavolopes/Documents/Estudos/nodejs-casa-do-codigo/ntalk/node_modules/redis/index.js:406:14)
+    at Socket.<anonymous> (/Users/gustavolopes/Documents/Estudos/nodejs-casa-do-codigo/ntalk/node_modules/redis/index.js:279:14)
+    at Socket.emit (events.js:198:13)
+    at emitErrorNT (internal/streams/destroy.js:91:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:59:3)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+events.js:174
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to localhost:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+Emitted 'error' event at:
+    at RedisClient.onError (/Users/gustavolopes/Documents/Estudos/nodejs-casa-do-codigo/ntalk/node_modules/socket.io-redis/index.js:118:12)
+    at RedisClient.emit (events.js:198:13)
+    at RedisClient.on_error (/Users/gustavolopes/Documents/Estudos/nodejs-casa-do-codigo/ntalk/node_modules/redis/index.js:406:14)
+    at Socket.<anonymous> (/Users/gustavolopes/Documents/Estudos/nodejs-casa-do-codigo/ntalk/node_modules/redis/index.js:279:14)
+    at Socket.emit (events.js:198:13)
+    at emitErrorNT (internal/streams/destroy.js:91:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:59:3)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+Fri, 27 Sep 2019 01:44:37 GMT express:router:route new '/chat'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/chat'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:route get '/chat'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:route get '/chat'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:route new '/contatos'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/contatos'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:route get '/contatos'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:route get '/contatos'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:route new '/contato/:id'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/contato/:id'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:route get '/contato/:id'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:route get '/contato/:id'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:route new '/contato'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/contato'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:route post '/contato'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:route post '/contato'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:route new '/contato/:id/editar'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/contato/:id/editar'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:route get '/contato/:id/editar'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:route get '/contato/:id/editar'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:route new '/contato/:id'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/contato/:id'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:route put '/contato/:id'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:route put '/contato/:id'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:route new '/contato/:id'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/contato/:id'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:route delete '/contato/:id'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:route delete '/contato/:id'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:route new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:route get '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:route new '/entrar'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/entrar'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:route post '/entrar'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:route new '/sair'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/sair'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:route get '/sair'
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router use '/' <anonymous>
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:37 GMT express:router use '/' <anonymous>
+Fri, 27 Sep 2019 01:44:37 GMT express:router:layer new '/'
+2019-09-27T01:44:37.810Z connect:redis Redis returned err { Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379 }
+events.js:174
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to localhost:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+Emitted 'error' event at:
+    at RedisClient.onError (/Users/gustavolopes/Documents/Estudos/nodejs-casa-do-codigo/ntalk/node_modules/socket.io-redis/index.js:118:12)
+    at RedisClient.emit (events.js:198:13)
+    at RedisClient.on_error (/Users/gustavolopes/Documents/Estudos/nodejs-casa-do-codigo/ntalk/node_modules/redis/index.js:406:14)
+    at Socket.<anonymous> (/Users/gustavolopes/Documents/Estudos/nodejs-casa-do-codigo/ntalk/node_modules/redis/index.js:279:14)
+    at Socket.emit (events.js:198:13)
+    at emitErrorNT (internal/streams/destroy.js:91:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:59:3)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+Fri, 27 Sep 2019 01:44:38 GMT express:application set "x-powered-by" to true
+Fri, 27 Sep 2019 01:44:38 GMT express:application set "etag" to 'weak'
+Fri, 27 Sep 2019 01:44:38 GMT express:application set "etag fn" to [Function: generateETag]
+Fri, 27 Sep 2019 01:44:38 GMT express:application set "env" to 'development'
+Fri, 27 Sep 2019 01:44:38 GMT express:application set "query parser" to 'extended'
+Fri, 27 Sep 2019 01:44:38 GMT express:application set "query parser fn" to [Function: parseExtendedQueryString]
+Fri, 27 Sep 2019 01:44:38 GMT express:application set "subdomain offset" to 2
+Fri, 27 Sep 2019 01:44:38 GMT express:application set "trust proxy" to false
+Fri, 27 Sep 2019 01:44:38 GMT express:application set "trust proxy fn" to [Function: trustNone]
+Fri, 27 Sep 2019 01:44:38 GMT express:application booting in development mode
+Fri, 27 Sep 2019 01:44:38 GMT express:application set "view" to [Function: View]
+Fri, 27 Sep 2019 01:44:38 GMT express:application set "views" to '/Users/gustavolopes/Documents/Estudos/nodejs-casa-do-codigo/ntalk/views'
+Fri, 27 Sep 2019 01:44:38 GMT express:application set "jsonp callback name" to 'callback'
+Fri, 27 Sep 2019 01:44:38 GMT express:application set "x-powered-by" to true
+Fri, 27 Sep 2019 01:44:38 GMT express:application set "etag" to 'weak'
+Fri, 27 Sep 2019 01:44:38 GMT express:application set "etag fn" to [Function: generateETag]
+Fri, 27 Sep 2019 01:44:38 GMT express:application set "env" to 'development'
+Fri, 27 Sep 2019 01:44:38 GMT express:application set "query parser" to 'extended'
+Fri, 27 Sep 2019 01:44:38 GMT express:application set "query parser fn" to [Function: parseExtendedQueryString]
+Fri, 27 Sep 2019 01:44:38 GMT express:application set "subdomain offset" to 2
+2019-09-27T01:44:38.621Z socket.io:server initializing namespace /
+2019-09-27T01:44:38.622Z socket.io-parser encoding packet {"type":0,"nsp":"/"}
+2019-09-27T01:44:38.622Z socket.io-parser encoded {"type":0,"nsp":"/"} as 0
+2019-09-27T01:44:38.623Z socket.io:server creating engine.io instance with opts {"path":"/socket.io","initialPacket":["0"]}
+Fri, 27 Sep 2019 01:44:38 GMT express:application set "trust proxy" to false
+Fri, 27 Sep 2019 01:44:38 GMT express:application set "trust proxy fn" to [Function: trustNone]
+Fri, 27 Sep 2019 01:44:38 GMT express:application booting in development mode
+Fri, 27 Sep 2019 01:44:38 GMT express:application set "view" to [Function: View]
+Fri, 27 Sep 2019 01:44:38 GMT express:application set "views" to '/Users/gustavolopes/Documents/Estudos/nodejs-casa-do-codigo/ntalk/views'
+Fri, 27 Sep 2019 01:44:38 GMT express:application set "jsonp callback name" to 'callback'
+Fri, 27 Sep 2019 01:44:38 GMT express:application set "x-powered-by" to true
+Fri, 27 Sep 2019 01:44:38 GMT express:application set "etag" to 'weak'
+2019-09-27T01:44:38.630Z socket.io:server initializing namespace /
+Fri, 27 Sep 2019 01:44:38 GMT express:application set "etag fn" to [Function: generateETag]
+Fri, 27 Sep 2019 01:44:38 GMT express:application set "env" to 'development'
+Fri, 27 Sep 2019 01:44:38 GMT express:application set "query parser" to 'extended'
+Fri, 27 Sep 2019 01:44:38 GMT express:application set "query parser fn" to [Function: parseExtendedQueryString]
+2019-09-27T01:44:38.632Z socket.io-parser encoding packet {"type":0,"nsp":"/"}
+2019-09-27T01:44:38.632Z socket.io-parser encoded {"type":0,"nsp":"/"} as 0
+2019-09-27T01:44:38.632Z socket.io:server creating engine.io instance with opts {"path":"/socket.io","initialPacket":["0"]}
+Fri, 27 Sep 2019 01:44:38 GMT express:application set "subdomain offset" to 2
+Fri, 27 Sep 2019 01:44:38 GMT express:application set "trust proxy" to false
+Fri, 27 Sep 2019 01:44:38 GMT express:application set "trust proxy fn" to [Function: trustNone]
+Fri, 27 Sep 2019 01:44:38 GMT express:application booting in development mode
+Fri, 27 Sep 2019 01:44:38 GMT express:application set "view" to [Function: View]
+Fri, 27 Sep 2019 01:44:38 GMT express:application set "views" to '/Users/gustavolopes/Documents/Estudos/nodejs-casa-do-codigo/ntalk/views'
+Fri, 27 Sep 2019 01:44:38 GMT express:application set "jsonp callback name" to 'callback'
+Fri, 27 Sep 2019 01:44:38 GMT express:application set "x-powered-by" to true
+Fri, 27 Sep 2019 01:44:38 GMT express:application set "etag" to 'weak'
+Fri, 27 Sep 2019 01:44:38 GMT express:application set "etag fn" to [Function: generateETag]
+Fri, 27 Sep 2019 01:44:38 GMT express:application set "env" to 'development'
+2019-09-27T01:44:38.641Z socket.io:server initializing namespace /
+Fri, 27 Sep 2019 01:44:38 GMT express:application set "query parser" to 'extended'
+Fri, 27 Sep 2019 01:44:38 GMT express:application set "query parser fn" to [Function: parseExtendedQueryString]
+Fri, 27 Sep 2019 01:44:38 GMT express:application set "subdomain offset" to 2
+2019-09-27T01:44:38.642Z socket.io-parser encoding packet {"type":0,"nsp":"/"}
+2019-09-27T01:44:38.643Z socket.io-parser encoded {"type":0,"nsp":"/"} as 0
+2019-09-27T01:44:38.643Z socket.io:server creating engine.io instance with opts {"path":"/socket.io","initialPacket":["0"]}
+Fri, 27 Sep 2019 01:44:38 GMT express:application set "trust proxy" to false
+Fri, 27 Sep 2019 01:44:38 GMT express:application set "trust proxy fn" to [Function: trustNone]
+Fri, 27 Sep 2019 01:44:38 GMT express:application booting in development mode
+Fri, 27 Sep 2019 01:44:38 GMT express:application set "view" to [Function: View]
+Fri, 27 Sep 2019 01:44:38 GMT express:application set "views" to '/Users/gustavolopes/Documents/Estudos/nodejs-casa-do-codigo/ntalk/views'
+Fri, 27 Sep 2019 01:44:38 GMT express:application set "jsonp callback name" to 'callback'
+2019-09-27T01:44:38.650Z socket.io:server attaching client serving req handler
+2019-09-27T01:44:38.651Z socket.io:server initializing namespace /
+2019-09-27T01:44:38.652Z socket.io-parser encoding packet {"type":0,"nsp":"/"}
+2019-09-27T01:44:38.653Z socket.io-parser encoded {"type":0,"nsp":"/"} as 0
+2019-09-27T01:44:38.653Z socket.io:server creating engine.io instance with opts {"path":"/socket.io","initialPacket":["0"]}
+2019-09-27T01:44:38.654Z socket.io:server attaching client serving req handler
+Fri, 27 Sep 2019 01:44:38 GMT express:application set "x-powered-by" to false
+Fri, 27 Sep 2019 01:44:38 GMT express:application set "views" to '/Users/gustavolopes/Documents/Estudos/nodejs-casa-do-codigo/ntalk/views'
+Fri, 27 Sep 2019 01:44:38 GMT express:application set "view engine" to 'ejs'
+Fri, 27 Sep 2019 01:44:38 GMT express:router use '/' query
+Fri, 27 Sep 2019 01:44:38 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:38 GMT express:router use '/' expressInit
+Fri, 27 Sep 2019 01:44:38 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:38 GMT express:router use '/' compression
+Fri, 27 Sep 2019 01:44:38 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:38 GMT express-session deprecated undefined resave option; provide resave option at app.js:27:9
+Fri, 27 Sep 2019 01:44:38 GMT express:application set "x-powered-by" to false
+Fri, 27 Sep 2019 01:44:38 GMT express:application set "views" to '/Users/gustavolopes/Documents/Estudos/nodejs-casa-do-codigo/ntalk/views'
+Fri, 27 Sep 2019 01:44:38 GMT express-session deprecated undefined saveUninitialized option; provide saveUninitialized option at app.js:27:9
+Fri, 27 Sep 2019 01:44:38 GMT express:application set "view engine" to 'ejs'
+Fri, 27 Sep 2019 01:44:38 GMT express:router use '/' session
+Fri, 27 Sep 2019 01:44:38 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:38 GMT express:router use '/' query
+Fri, 27 Sep 2019 01:44:38 GMT express:router:layer new '/'
+2019-09-27T01:44:38.663Z socket.io:server attaching client serving req handler
+Fri, 27 Sep 2019 01:44:38 GMT express:router use '/' expressInit
+Fri, 27 Sep 2019 01:44:38 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:38 GMT express:router use '/' compression
+Fri, 27 Sep 2019 01:44:38 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:38 GMT express-session deprecated undefined resave option; provide resave option at app.js:27:9
+Fri, 27 Sep 2019 01:44:38 GMT express-session deprecated undefined saveUninitialized option; provide saveUninitialized option at app.js:27:9
+Fri, 27 Sep 2019 01:44:38 GMT express:router use '/' session
+Fri, 27 Sep 2019 01:44:38 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:38 GMT express:application set "x-powered-by" to false
+Fri, 27 Sep 2019 01:44:38 GMT express:application set "views" to '/Users/gustavolopes/Documents/Estudos/nodejs-casa-do-codigo/ntalk/views'
+Fri, 27 Sep 2019 01:44:38 GMT express:application set "view engine" to 'ejs'
+Fri, 27 Sep 2019 01:44:38 GMT express:router use '/' query
+Fri, 27 Sep 2019 01:44:38 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:38 GMT express:router use '/' expressInit
+Fri, 27 Sep 2019 01:44:38 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:38 GMT express:router use '/' compression
+Fri, 27 Sep 2019 01:44:38 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:38 GMT express-session deprecated undefined resave option; provide resave option at app.js:27:9
+Fri, 27 Sep 2019 01:44:38 GMT express-session deprecated undefined saveUninitialized option; provide saveUninitialized option at app.js:27:9
+Fri, 27 Sep 2019 01:44:38 GMT express:router use '/' session
+Fri, 27 Sep 2019 01:44:38 GMT express:router:layer new '/'
+2019-09-27T01:44:38.685Z socket.io:server attaching client serving req handler
+Fri, 27 Sep 2019 01:44:38 GMT express:router use '/' jsonParser
+Fri, 27 Sep 2019 01:44:38 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:38 GMT express:router use '/' jsonParser
+Fri, 27 Sep 2019 01:44:38 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:38 GMT express:application set "x-powered-by" to false
+Fri, 27 Sep 2019 01:44:38 GMT express:application set "views" to '/Users/gustavolopes/Documents/Estudos/nodejs-casa-do-codigo/ntalk/views'
+Fri, 27 Sep 2019 01:44:38 GMT body-parser deprecated undefined extended: provide extended option at app.js:33:20
+Fri, 27 Sep 2019 01:44:38 GMT express:application set "view engine" to 'ejs'
+Fri, 27 Sep 2019 01:44:38 GMT body-parser deprecated undefined extended: provide extended option at app.js:33:20
+Fri, 27 Sep 2019 01:44:38 GMT express:router use '/' query
+Fri, 27 Sep 2019 01:44:38 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:38 GMT express:router use '/' expressInit
+Fri, 27 Sep 2019 01:44:38 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:38 GMT express:router use '/' compression
+Fri, 27 Sep 2019 01:44:38 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:38 GMT express:router use '/' jsonParser
+Fri, 27 Sep 2019 01:44:38 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:38 GMT express-session deprecated undefined resave option; provide resave option at app.js:27:9
+Fri, 27 Sep 2019 01:44:38 GMT express-session deprecated undefined saveUninitialized option; provide saveUninitialized option at app.js:27:9
+Fri, 27 Sep 2019 01:44:38 GMT express:router use '/' session
+Fri, 27 Sep 2019 01:44:38 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:38 GMT express:router use '/' urlencodedParser
+Fri, 27 Sep 2019 01:44:38 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:38 GMT express:router use '/' methodOverride
+Fri, 27 Sep 2019 01:44:38 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:38 GMT express:router use '/' serveStatic
+Fri, 27 Sep 2019 01:44:38 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:38 GMT body-parser deprecated undefined extended: provide extended option at app.js:33:20
+Fri, 27 Sep 2019 01:44:38 GMT express:router use '/' urlencodedParser
+Fri, 27 Sep 2019 01:44:38 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:38 GMT express:router use '/' methodOverride
+Fri, 27 Sep 2019 01:44:38 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:38 GMT express:router use '/' serveStatic
+Fri, 27 Sep 2019 01:44:38 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:38 GMT express:router use '/' csrf
+Fri, 27 Sep 2019 01:44:38 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:38 GMT express:router use '/' <anonymous>
+Fri, 27 Sep 2019 01:44:38 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:38 GMT express:router use '/' urlencodedParser
+Fri, 27 Sep 2019 01:44:38 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:38 GMT express:router use '/' csrf
+Fri, 27 Sep 2019 01:44:38 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:38 GMT express:router use '/' methodOverride
+Fri, 27 Sep 2019 01:44:38 GMT express:router use '/' <anonymous>
+Fri, 27 Sep 2019 01:44:38 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:38 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:38 GMT express:router use '/' serveStatic
+Fri, 27 Sep 2019 01:44:38 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:38 GMT express:router use '/' csrf
+Fri, 27 Sep 2019 01:44:38 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:38 GMT express:router use '/' <anonymous>
+Fri, 27 Sep 2019 01:44:38 GMT express:router:layer new '/'
+2019-09-27T01:44:38.718Z socket.io:namespace removing initial packet
+2019-09-27T01:44:38.719Z socket.io:namespace removing initial packet
+Fri, 27 Sep 2019 01:44:38 GMT express:router use '/' jsonParser
+Fri, 27 Sep 2019 01:44:38 GMT express:router:layer new '/'
+2019-09-27T01:44:38.726Z socket.io:namespace removing initial packet
+Fri, 27 Sep 2019 01:44:38 GMT body-parser deprecated undefined extended: provide extended option at app.js:33:20
+Fri, 27 Sep 2019 01:44:38 GMT express:router use '/' urlencodedParser
+Fri, 27 Sep 2019 01:44:38 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:38 GMT express:router use '/' methodOverride
+Fri, 27 Sep 2019 01:44:38 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:38 GMT express:router use '/' serveStatic
+Fri, 27 Sep 2019 01:44:38 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:38 GMT express:router use '/' csrf
+Fri, 27 Sep 2019 01:44:38 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:38 GMT express:router use '/' <anonymous>
+Fri, 27 Sep 2019 01:44:38 GMT express:router:layer new '/'
+2019-09-27T01:44:38.764Z socket.io:namespace removing initial packet
+Fri, 27 Sep 2019 01:44:39 GMT express:router:route new '/chat'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/chat'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:route get '/chat'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:route get '/chat'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:route new '/contatos'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/contatos'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:route get '/contatos'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:route get '/contatos'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:route new '/contato/:id'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/contato/:id'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:route get '/contato/:id'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:route get '/contato/:id'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:route new '/contato'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/contato'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:route post '/contato'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:route post '/contato'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:route new '/contato/:id/editar'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/contato/:id/editar'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:route new '/chat'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/chat'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:route get '/chat'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:route get '/chat'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:route new '/contatos'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/contatos'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:route get '/contatos'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:route get '/contatos'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:route new '/contato/:id'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/contato/:id'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:route get '/contato/:id/editar'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:route get '/contato/:id/editar'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:route new '/contato/:id'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/contato/:id'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:route put '/contato/:id'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:route put '/contato/:id'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:route new '/contato/:id'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/contato/:id'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:route get '/contato/:id'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:route delete '/contato/:id'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:route delete '/contato/:id'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:route get '/contato/:id'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:route new '/'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:route get '/'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:route new '/entrar'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/entrar'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:route post '/entrar'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:route new '/sair'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/sair'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:route get '/sair'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:39 GMT express:router use '/' <anonymous>
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:39 GMT express:router use '/' <anonymous>
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:route new '/contato'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/contato'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:route post '/contato'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:route post '/contato'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:route new '/contato/:id/editar'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/contato/:id/editar'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:route get '/contato/:id/editar'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:route get '/contato/:id/editar'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:route new '/contato/:id'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/contato/:id'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:route put '/contato/:id'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:route put '/contato/:id'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:route new '/contato/:id'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/contato/:id'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:route delete '/contato/:id'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:route delete '/contato/:id'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:route new '/'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:route get '/'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:route new '/entrar'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/entrar'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:route post '/entrar'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:route new '/sair'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/sair'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:route get '/sair'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:39 GMT express:router use '/' <anonymous>
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:39 GMT express:router use '/' <anonymous>
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:route new '/chat'
+2019-09-27T01:44:39.473Z connect:redis Redis returned err { Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379 }
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/chat'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:route get '/chat'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:route get '/chat'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:route new '/contatos'
+2019-09-27T01:44:39.479Z connect:redis Redis returned err { Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379 }
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/contatos'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:route get '/contatos'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:route get '/contatos'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:route new '/contato/:id'
+events.js:174
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to localhost:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+Emitted 'error' event at:
+    at RedisClient.onError (/Users/gustavolopes/Documents/Estudos/nodejs-casa-do-codigo/ntalk/node_modules/socket.io-redis/index.js:118:12)
+    at RedisClient.emit (events.js:198:13)
+    at RedisClient.on_error (/Users/gustavolopes/Documents/Estudos/nodejs-casa-do-codigo/ntalk/node_modules/redis/index.js:406:14)
+    at Socket.<anonymous> (/Users/gustavolopes/Documents/Estudos/nodejs-casa-do-codigo/ntalk/node_modules/redis/index.js:279:14)
+    at Socket.emit (events.js:198:13)
+    at emitErrorNT (internal/streams/destroy.js:91:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:59:3)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/contato/:id'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:route get '/contato/:id'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:route get '/contato/:id'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:route new '/contato'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/contato'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:route post '/contato'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:route post '/contato'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:route new '/chat'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/chat'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:route new '/contato/:id/editar'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/contato/:id/editar'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:route get '/chat'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:route get '/contato/:id/editar'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:route get '/chat'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:route get '/contato/:id/editar'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:route new '/contato/:id'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/contato/:id'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:route put '/contato/:id'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:route put '/contato/:id'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:route new '/contato/:id'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/contato/:id'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:route delete '/contato/:id'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:route delete '/contato/:id'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:route new '/contatos'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/contatos'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:route get '/contatos'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:route new '/'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:route get '/contatos'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:route get '/'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:route new '/entrar'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:route new '/contato/:id'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/entrar'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/contato/:id'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:route post '/entrar'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:route new '/sair'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/sair'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:route get '/sair'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:route get '/contato/:id'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:route get '/contato/:id'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:route new '/contato'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/contato'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:route post '/contato'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:route post '/contato'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:route new '/contato/:id/editar'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/contato/:id/editar'
+Fri, 27 Sep 2019 01:44:39 GMT express:router use '/' <anonymous>
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:39 GMT express:router use '/' <anonymous>
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:route get '/contato/:id/editar'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:route get '/contato/:id/editar'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:route new '/contato/:id'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/contato/:id'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:route put '/contato/:id'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:route put '/contato/:id'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:route new '/contato/:id'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/contato/:id'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:route delete '/contato/:id'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:route delete '/contato/:id'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:route new '/'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:route get '/'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:route new '/entrar'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/entrar'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:route post '/entrar'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:route new '/sair'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/sair'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:route get '/sair'
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:39 GMT express:router use '/' <anonymous>
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:39 GMT express:router use '/' <anonymous>
+Fri, 27 Sep 2019 01:44:39 GMT express:router:layer new '/'
+events.js:174
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to localhost:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+Emitted 'error' event at:
+    at RedisClient.onError (/Users/gustavolopes/Documents/Estudos/nodejs-casa-do-codigo/ntalk/node_modules/socket.io-redis/index.js:118:12)
+    at RedisClient.emit (events.js:198:13)
+    at RedisClient.on_error (/Users/gustavolopes/Documents/Estudos/nodejs-casa-do-codigo/ntalk/node_modules/redis/index.js:406:14)
+    at Socket.<anonymous> (/Users/gustavolopes/Documents/Estudos/nodejs-casa-do-codigo/ntalk/node_modules/redis/index.js:279:14)
+    at Socket.emit (events.js:198:13)
+    at emitErrorNT (internal/streams/destroy.js:91:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:59:3)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+2019-09-27T01:44:39.500Z connect:redis Redis returned err { Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379 }
+events.js:174
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to localhost:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+Emitted 'error' event at:
+    at RedisClient.onError (/Users/gustavolopes/Documents/Estudos/nodejs-casa-do-codigo/ntalk/node_modules/socket.io-redis/index.js:118:12)
+    at RedisClient.emit (events.js:198:13)
+    at RedisClient.on_error (/Users/gustavolopes/Documents/Estudos/nodejs-casa-do-codigo/ntalk/node_modules/redis/index.js:406:14)
+    at Socket.<anonymous> (/Users/gustavolopes/Documents/Estudos/nodejs-casa-do-codigo/ntalk/node_modules/redis/index.js:279:14)
+    at Socket.emit (events.js:198:13)
+    at emitErrorNT (internal/streams/destroy.js:91:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:59:3)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+2019-09-27T01:44:39.508Z connect:redis Redis returned err { Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379 }
+events.js:174
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to localhost:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+Emitted 'error' event at:
+    at RedisClient.onError (/Users/gustavolopes/Documents/Estudos/nodejs-casa-do-codigo/ntalk/node_modules/socket.io-redis/index.js:118:12)
+    at RedisClient.emit (events.js:198:13)
+    at RedisClient.on_error (/Users/gustavolopes/Documents/Estudos/nodejs-casa-do-codigo/ntalk/node_modules/redis/index.js:406:14)
+    at Socket.<anonymous> (/Users/gustavolopes/Documents/Estudos/nodejs-casa-do-codigo/ntalk/node_modules/redis/index.js:279:14)
+    at Socket.emit (events.js:198:13)
+    at emitErrorNT (internal/streams/destroy.js:91:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:59:3)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+Fri, 27 Sep 2019 01:44:40 GMT express:application set "x-powered-by" to true
+Fri, 27 Sep 2019 01:44:40 GMT express:application set "etag" to 'weak'
+Fri, 27 Sep 2019 01:44:40 GMT express:application set "etag fn" to [Function: generateETag]
+Fri, 27 Sep 2019 01:44:40 GMT express:application set "env" to 'development'
+Fri, 27 Sep 2019 01:44:40 GMT express:application set "query parser" to 'extended'
+Fri, 27 Sep 2019 01:44:40 GMT express:application set "query parser fn" to [Function: parseExtendedQueryString]
+Fri, 27 Sep 2019 01:44:40 GMT express:application set "subdomain offset" to 2
+Fri, 27 Sep 2019 01:44:40 GMT express:application set "trust proxy" to false
+Fri, 27 Sep 2019 01:44:40 GMT express:application set "x-powered-by" to true
+Fri, 27 Sep 2019 01:44:40 GMT express:application set "etag" to 'weak'
+Fri, 27 Sep 2019 01:44:40 GMT express:application set "etag fn" to [Function: generateETag]
+Fri, 27 Sep 2019 01:44:40 GMT express:application set "env" to 'development'
+Fri, 27 Sep 2019 01:44:40 GMT express:application set "query parser" to 'extended'
+Fri, 27 Sep 2019 01:44:40 GMT express:application set "query parser fn" to [Function: parseExtendedQueryString]
+Fri, 27 Sep 2019 01:44:40 GMT express:application set "subdomain offset" to 2
+Fri, 27 Sep 2019 01:44:40 GMT express:application set "trust proxy" to false
+Fri, 27 Sep 2019 01:44:40 GMT express:application set "trust proxy fn" to [Function: trustNone]
+Fri, 27 Sep 2019 01:44:40 GMT express:application booting in development mode
+Fri, 27 Sep 2019 01:44:40 GMT express:application set "x-powered-by" to true
+Fri, 27 Sep 2019 01:44:40 GMT express:application set "view" to [Function: View]
+Fri, 27 Sep 2019 01:44:40 GMT express:application set "views" to '/Users/gustavolopes/Documents/Estudos/nodejs-casa-do-codigo/ntalk/views'
+Fri, 27 Sep 2019 01:44:40 GMT express:application set "jsonp callback name" to 'callback'
+Fri, 27 Sep 2019 01:44:40 GMT express:application set "etag" to 'weak'
+Fri, 27 Sep 2019 01:44:40 GMT express:application set "etag fn" to [Function: generateETag]
+Fri, 27 Sep 2019 01:44:40 GMT express:application set "env" to 'development'
+Fri, 27 Sep 2019 01:44:40 GMT express:application set "query parser" to 'extended'
+Fri, 27 Sep 2019 01:44:40 GMT express:application set "query parser fn" to [Function: parseExtendedQueryString]
+Fri, 27 Sep 2019 01:44:40 GMT express:application set "trust proxy fn" to [Function: trustNone]
+Fri, 27 Sep 2019 01:44:40 GMT express:application booting in development mode
+Fri, 27 Sep 2019 01:44:40 GMT express:application set "view" to [Function: View]
+Fri, 27 Sep 2019 01:44:40 GMT express:application set "views" to '/Users/gustavolopes/Documents/Estudos/nodejs-casa-do-codigo/ntalk/views'
+Fri, 27 Sep 2019 01:44:40 GMT express:application set "jsonp callback name" to 'callback'
+2019-09-27T01:44:40.610Z socket.io:server initializing namespace /
+2019-09-27T01:44:40.612Z socket.io-parser encoding packet {"type":0,"nsp":"/"}
+2019-09-27T01:44:40.613Z socket.io-parser encoded {"type":0,"nsp":"/"} as 0
+2019-09-27T01:44:40.613Z socket.io:server creating engine.io instance with opts {"path":"/socket.io","initialPacket":["0"]}
+Fri, 27 Sep 2019 01:44:40 GMT express:application set "subdomain offset" to 2
+Fri, 27 Sep 2019 01:44:40 GMT express:application set "trust proxy" to false
+Fri, 27 Sep 2019 01:44:40 GMT express:application set "trust proxy fn" to [Function: trustNone]
+Fri, 27 Sep 2019 01:44:40 GMT express:application booting in development mode
+Fri, 27 Sep 2019 01:44:40 GMT express:application set "view" to [Function: View]
+Fri, 27 Sep 2019 01:44:40 GMT express:application set "views" to '/Users/gustavolopes/Documents/Estudos/nodejs-casa-do-codigo/ntalk/views'
+Fri, 27 Sep 2019 01:44:40 GMT express:application set "jsonp callback name" to 'callback'
+2019-09-27T01:44:40.617Z socket.io:server initializing namespace /
+2019-09-27T01:44:40.619Z socket.io-parser encoding packet {"type":0,"nsp":"/"}
+2019-09-27T01:44:40.620Z socket.io-parser encoded {"type":0,"nsp":"/"} as 0
+2019-09-27T01:44:40.621Z socket.io:server creating engine.io instance with opts {"path":"/socket.io","initialPacket":["0"]}
+2019-09-27T01:44:40.621Z socket.io:server initializing namespace /
+2019-09-27T01:44:40.623Z socket.io-parser encoding packet {"type":0,"nsp":"/"}
+2019-09-27T01:44:40.623Z socket.io-parser encoded {"type":0,"nsp":"/"} as 0
+2019-09-27T01:44:40.624Z socket.io:server creating engine.io instance with opts {"path":"/socket.io","initialPacket":["0"]}
+2019-09-27T01:44:40.637Z socket.io:server attaching client serving req handler
+2019-09-27T01:44:40.640Z socket.io:server attaching client serving req handler
+Fri, 27 Sep 2019 01:44:40 GMT express:application set "x-powered-by" to true
+Fri, 27 Sep 2019 01:44:40 GMT express:application set "etag" to 'weak'
+2019-09-27T01:44:40.644Z socket.io:server attaching client serving req handler
+Fri, 27 Sep 2019 01:44:40 GMT express:application set "x-powered-by" to false
+Fri, 27 Sep 2019 01:44:40 GMT express:application set "views" to '/Users/gustavolopes/Documents/Estudos/nodejs-casa-do-codigo/ntalk/views'
+Fri, 27 Sep 2019 01:44:40 GMT express:application set "view engine" to 'ejs'
+Fri, 27 Sep 2019 01:44:40 GMT express:application set "etag fn" to [Function: generateETag]
+Fri, 27 Sep 2019 01:44:40 GMT express:application set "env" to 'development'
+Fri, 27 Sep 2019 01:44:40 GMT express:application set "query parser" to 'extended'
+Fri, 27 Sep 2019 01:44:40 GMT express:application set "query parser fn" to [Function: parseExtendedQueryString]
+Fri, 27 Sep 2019 01:44:40 GMT express:application set "subdomain offset" to 2
+Fri, 27 Sep 2019 01:44:40 GMT express:router use '/' query
+Fri, 27 Sep 2019 01:44:40 GMT express:application set "trust proxy" to false
+Fri, 27 Sep 2019 01:44:40 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:40 GMT express:router use '/' expressInit
+Fri, 27 Sep 2019 01:44:40 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:40 GMT express:router use '/' compression
+Fri, 27 Sep 2019 01:44:40 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:40 GMT express-session deprecated undefined resave option; provide resave option at app.js:27:9
+Fri, 27 Sep 2019 01:44:40 GMT express-session deprecated undefined saveUninitialized option; provide saveUninitialized option at app.js:27:9
+Fri, 27 Sep 2019 01:44:40 GMT express:router use '/' session
+Fri, 27 Sep 2019 01:44:40 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:40 GMT express:application set "x-powered-by" to false
+Fri, 27 Sep 2019 01:44:40 GMT express:application set "views" to '/Users/gustavolopes/Documents/Estudos/nodejs-casa-do-codigo/ntalk/views'
+Fri, 27 Sep 2019 01:44:40 GMT express:application set "view engine" to 'ejs'
+Fri, 27 Sep 2019 01:44:40 GMT express:router use '/' query
+Fri, 27 Sep 2019 01:44:40 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:40 GMT express:application set "trust proxy fn" to [Function: trustNone]
+Fri, 27 Sep 2019 01:44:40 GMT express:router use '/' expressInit
+Fri, 27 Sep 2019 01:44:40 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:40 GMT express:application booting in development mode
+Fri, 27 Sep 2019 01:44:40 GMT express:router use '/' compression
+Fri, 27 Sep 2019 01:44:40 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:40 GMT express:application set "view" to [Function: View]
+Fri, 27 Sep 2019 01:44:40 GMT express:application set "views" to '/Users/gustavolopes/Documents/Estudos/nodejs-casa-do-codigo/ntalk/views'
+Fri, 27 Sep 2019 01:44:40 GMT express:application set "jsonp callback name" to 'callback'
+Fri, 27 Sep 2019 01:44:40 GMT express-session deprecated undefined resave option; provide resave option at app.js:27:9
+Fri, 27 Sep 2019 01:44:40 GMT express:application set "x-powered-by" to false
+Fri, 27 Sep 2019 01:44:40 GMT express-session deprecated undefined saveUninitialized option; provide saveUninitialized option at app.js:27:9
+Fri, 27 Sep 2019 01:44:40 GMT express:application set "views" to '/Users/gustavolopes/Documents/Estudos/nodejs-casa-do-codigo/ntalk/views'
+Fri, 27 Sep 2019 01:44:40 GMT express:router use '/' session
+Fri, 27 Sep 2019 01:44:40 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:40 GMT express:application set "view engine" to 'ejs'
+Fri, 27 Sep 2019 01:44:40 GMT express:router use '/' query
+Fri, 27 Sep 2019 01:44:40 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:40 GMT express:router use '/' expressInit
+Fri, 27 Sep 2019 01:44:40 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:40 GMT express:router use '/' compression
+Fri, 27 Sep 2019 01:44:40 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:40 GMT express-session deprecated undefined resave option; provide resave option at app.js:27:9
+Fri, 27 Sep 2019 01:44:40 GMT express-session deprecated undefined saveUninitialized option; provide saveUninitialized option at app.js:27:9
+Fri, 27 Sep 2019 01:44:40 GMT express:router use '/' session
+Fri, 27 Sep 2019 01:44:40 GMT express:router:layer new '/'
+2019-09-27T01:44:40.671Z socket.io:server initializing namespace /
+2019-09-27T01:44:40.672Z socket.io-parser encoding packet {"type":0,"nsp":"/"}
+2019-09-27T01:44:40.673Z socket.io-parser encoded {"type":0,"nsp":"/"} as 0
+2019-09-27T01:44:40.673Z socket.io:server creating engine.io instance with opts {"path":"/socket.io","initialPacket":["0"]}
+Fri, 27 Sep 2019 01:44:40 GMT express:router use '/' jsonParser
+Fri, 27 Sep 2019 01:44:40 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:40 GMT body-parser deprecated undefined extended: provide extended option at app.js:33:20
+Fri, 27 Sep 2019 01:44:40 GMT express:router use '/' jsonParser
+Fri, 27 Sep 2019 01:44:40 GMT express:router use '/' jsonParser
+Fri, 27 Sep 2019 01:44:40 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:40 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:40 GMT express:router use '/' urlencodedParser
+Fri, 27 Sep 2019 01:44:40 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:40 GMT express:router use '/' methodOverride
+Fri, 27 Sep 2019 01:44:40 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:40 GMT express:router use '/' serveStatic
+Fri, 27 Sep 2019 01:44:40 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:40 GMT body-parser deprecated undefined extended: provide extended option at app.js:33:20
+Fri, 27 Sep 2019 01:44:40 GMT express:router use '/' csrf
+Fri, 27 Sep 2019 01:44:40 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:40 GMT express:router use '/' <anonymous>
+Fri, 27 Sep 2019 01:44:40 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:40 GMT body-parser deprecated undefined extended: provide extended option at app.js:33:20
+Fri, 27 Sep 2019 01:44:40 GMT express:router use '/' urlencodedParser
+Fri, 27 Sep 2019 01:44:40 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:40 GMT express:router use '/' methodOverride
+Fri, 27 Sep 2019 01:44:40 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:40 GMT express:router use '/' serveStatic
+Fri, 27 Sep 2019 01:44:40 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:40 GMT express:router use '/' csrf
+Fri, 27 Sep 2019 01:44:40 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:40 GMT express:router use '/' urlencodedParser
+Fri, 27 Sep 2019 01:44:40 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:40 GMT express:router use '/' <anonymous>
+Fri, 27 Sep 2019 01:44:40 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:40 GMT express:router use '/' methodOverride
+Fri, 27 Sep 2019 01:44:40 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:40 GMT express:router use '/' serveStatic
+Fri, 27 Sep 2019 01:44:40 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:40 GMT express:router use '/' csrf
+Fri, 27 Sep 2019 01:44:40 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:40 GMT express:router use '/' <anonymous>
+Fri, 27 Sep 2019 01:44:40 GMT express:router:layer new '/'
+2019-09-27T01:44:40.697Z socket.io:server attaching client serving req handler
+Fri, 27 Sep 2019 01:44:40 GMT express:application set "x-powered-by" to false
+Fri, 27 Sep 2019 01:44:40 GMT express:application set "views" to '/Users/gustavolopes/Documents/Estudos/nodejs-casa-do-codigo/ntalk/views'
+Fri, 27 Sep 2019 01:44:40 GMT express:application set "view engine" to 'ejs'
+Fri, 27 Sep 2019 01:44:40 GMT express:router use '/' query
+Fri, 27 Sep 2019 01:44:40 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:40 GMT express:router use '/' expressInit
+Fri, 27 Sep 2019 01:44:40 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:40 GMT express:router use '/' compression
+Fri, 27 Sep 2019 01:44:40 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:40 GMT express-session deprecated undefined resave option; provide resave option at app.js:27:9
+Fri, 27 Sep 2019 01:44:40 GMT express-session deprecated undefined saveUninitialized option; provide saveUninitialized option at app.js:27:9
+Fri, 27 Sep 2019 01:44:40 GMT express:router use '/' session
+Fri, 27 Sep 2019 01:44:40 GMT express:router:layer new '/'
+2019-09-27T01:44:40.713Z socket.io:namespace removing initial packet
+2019-09-27T01:44:40.713Z socket.io:namespace removing initial packet
+2019-09-27T01:44:40.713Z socket.io:namespace removing initial packet
+Fri, 27 Sep 2019 01:44:40 GMT express:router use '/' jsonParser
+Fri, 27 Sep 2019 01:44:40 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:40 GMT body-parser deprecated undefined extended: provide extended option at app.js:33:20
+Fri, 27 Sep 2019 01:44:40 GMT express:router use '/' urlencodedParser
+Fri, 27 Sep 2019 01:44:40 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:40 GMT express:router use '/' methodOverride
+Fri, 27 Sep 2019 01:44:40 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:40 GMT express:router use '/' serveStatic
+Fri, 27 Sep 2019 01:44:40 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:40 GMT express:router use '/' csrf
+Fri, 27 Sep 2019 01:44:40 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:40 GMT express:router use '/' <anonymous>
+Fri, 27 Sep 2019 01:44:40 GMT express:router:layer new '/'
+2019-09-27T01:44:40.773Z socket.io:namespace removing initial packet
+Fri, 27 Sep 2019 01:44:41 GMT express:router:route new '/chat'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/chat'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:route get '/chat'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:route get '/chat'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:route new '/contatos'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/contatos'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:route get '/contatos'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:route get '/contatos'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:route new '/contato/:id'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:route new '/chat'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/chat'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/contato/:id'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:route get '/contato/:id'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:route get '/contato/:id'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:route new '/contato'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/contato'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:route post '/contato'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:route post '/contato'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:route new '/contato/:id/editar'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/contato/:id/editar'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:route get '/contato/:id/editar'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:route get '/contato/:id/editar'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:route new '/contato/:id'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/contato/:id'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:route put '/contato/:id'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:route put '/contato/:id'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:route new '/contato/:id'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/contato/:id'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:route delete '/contato/:id'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:route delete '/contato/:id'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:route get '/chat'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:route get '/chat'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:route new '/'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:route get '/'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:route new '/contatos'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/contatos'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:route new '/entrar'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/entrar'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:route get '/contatos'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:route new '/chat'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:route post '/entrar'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:route get '/contatos'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:route new '/sair'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/chat'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:route new '/contato/:id'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/contato/:id'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/sair'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:route get '/sair'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:route get '/chat'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:route get '/contato/:id'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:route get '/contato/:id'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:route new '/contato'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/contato'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:route get '/chat'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:route post '/contato'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:route post '/contato'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:route new '/contato/:id/editar'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/contato/:id/editar'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:route get '/contato/:id/editar'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:route get '/contato/:id/editar'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:route new '/contato/:id'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/contato/:id'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:route put '/contato/:id'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:route put '/contato/:id'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:route new '/contato/:id'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/contato/:id'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:route delete '/contato/:id'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:route delete '/contato/:id'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:route new '/contatos'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/contatos'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:route get '/contatos'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:route new '/'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:route get '/'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:route get '/contatos'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:route new '/entrar'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/entrar'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:route new '/contato/:id'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/contato/:id'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:route post '/entrar'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:route new '/sair'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/sair'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:route get '/sair'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:route get '/contato/:id'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:route get '/contato/:id'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:route new '/contato'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/contato'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:route post '/contato'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:41 GMT express:router use '/' <anonymous>
+Fri, 27 Sep 2019 01:44:41 GMT express:router:route post '/contato'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:route new '/contato/:id/editar'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/contato/:id/editar'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:route get '/contato/:id/editar'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:41 GMT express:router use '/' <anonymous>
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:route get '/contato/:id/editar'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:route new '/contato/:id'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/contato/:id'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:route put '/contato/:id'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:route put '/contato/:id'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:route new '/contato/:id'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/contato/:id'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:route delete '/contato/:id'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:route delete '/contato/:id'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:41 GMT express:router use '/' <anonymous>
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:41 GMT express:router use '/' <anonymous>
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:route new '/'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:route get '/'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:route new '/entrar'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/entrar'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:route post '/entrar'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:route new '/sair'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/sair'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:route get '/sair'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:41 GMT express:router use '/' <anonymous>
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:41 GMT express:router use '/' <anonymous>
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/'
+2019-09-27T01:44:41.460Z connect:redis Redis returned err { Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379 }
+2019-09-27T01:44:41.464Z connect:redis Redis returned err { Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379 }
+2019-09-27T01:44:41.466Z connect:redis Redis returned err { Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379 }
+events.js:174
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to localhost:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+Emitted 'error' event at:
+    at RedisClient.onError (/Users/gustavolopes/Documents/Estudos/nodejs-casa-do-codigo/ntalk/node_modules/socket.io-redis/index.js:118:12)
+    at RedisClient.emit (events.js:198:13)
+    at RedisClient.on_error (/Users/gustavolopes/Documents/Estudos/nodejs-casa-do-codigo/ntalk/node_modules/redis/index.js:406:14)
+    at Socket.<anonymous> (/Users/gustavolopes/Documents/Estudos/nodejs-casa-do-codigo/ntalk/node_modules/redis/index.js:279:14)
+    at Socket.emit (events.js:198:13)
+    at emitErrorNT (internal/streams/destroy.js:91:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:59:3)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+events.js:174
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to localhost:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+Emitted 'error' event at:
+    at RedisClient.onError (/Users/gustavolopes/Documents/Estudos/nodejs-casa-do-codigo/ntalk/node_modules/socket.io-redis/index.js:118:12)
+    at RedisClient.emit (events.js:198:13)
+    at RedisClient.on_error (/Users/gustavolopes/Documents/Estudos/nodejs-casa-do-codigo/ntalk/node_modules/redis/index.js:406:14)
+    at Socket.<anonymous> (/Users/gustavolopes/Documents/Estudos/nodejs-casa-do-codigo/ntalk/node_modules/redis/index.js:279:14)
+    at Socket.emit (events.js:198:13)
+    at emitErrorNT (internal/streams/destroy.js:91:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:59:3)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+events.js:174
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to localhost:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+Emitted 'error' event at:
+    at RedisClient.onError (/Users/gustavolopes/Documents/Estudos/nodejs-casa-do-codigo/ntalk/node_modules/socket.io-redis/index.js:118:12)
+    at RedisClient.emit (events.js:198:13)
+    at RedisClient.on_error (/Users/gustavolopes/Documents/Estudos/nodejs-casa-do-codigo/ntalk/node_modules/redis/index.js:406:14)
+    at Socket.<anonymous> (/Users/gustavolopes/Documents/Estudos/nodejs-casa-do-codigo/ntalk/node_modules/redis/index.js:279:14)
+    at Socket.emit (events.js:198:13)
+    at emitErrorNT (internal/streams/destroy.js:91:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:59:3)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+Fri, 27 Sep 2019 01:44:41 GMT express:router:route new '/chat'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/chat'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:route get '/chat'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:route get '/chat'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:route new '/contatos'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/contatos'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:route get '/contatos'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:route get '/contatos'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:route new '/contato/:id'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/contato/:id'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:route get '/contato/:id'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:route get '/contato/:id'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:route new '/contato'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/contato'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:route post '/contato'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:route post '/contato'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:route new '/contato/:id/editar'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/contato/:id/editar'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:route get '/contato/:id/editar'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:route get '/contato/:id/editar'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:route new '/contato/:id'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/contato/:id'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:route put '/contato/:id'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:route put '/contato/:id'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:route new '/contato/:id'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/contato/:id'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:route delete '/contato/:id'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:route delete '/contato/:id'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:route new '/'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:route get '/'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:route new '/entrar'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/entrar'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:route post '/entrar'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:route new '/sair'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/sair'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:route get '/sair'
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:41 GMT express:router use '/' <anonymous>
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:41 GMT express:router use '/' <anonymous>
+Fri, 27 Sep 2019 01:44:41 GMT express:router:layer new '/'
+2019-09-27T01:44:41.500Z connect:redis Redis returned err { Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379 }
+events.js:174
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to localhost:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+Emitted 'error' event at:
+    at RedisClient.onError (/Users/gustavolopes/Documents/Estudos/nodejs-casa-do-codigo/ntalk/node_modules/socket.io-redis/index.js:118:12)
+    at RedisClient.emit (events.js:198:13)
+    at RedisClient.on_error (/Users/gustavolopes/Documents/Estudos/nodejs-casa-do-codigo/ntalk/node_modules/redis/index.js:406:14)
+    at Socket.<anonymous> (/Users/gustavolopes/Documents/Estudos/nodejs-casa-do-codigo/ntalk/node_modules/redis/index.js:279:14)
+    at Socket.emit (events.js:198:13)
+    at emitErrorNT (internal/streams/destroy.js:91:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:59:3)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+Fri, 27 Sep 2019 01:44:42 GMT express:application set "x-powered-by" to true
+Fri, 27 Sep 2019 01:44:42 GMT express:application set "etag" to 'weak'
+Fri, 27 Sep 2019 01:44:42 GMT express:application set "etag fn" to [Function: generateETag]
+Fri, 27 Sep 2019 01:44:42 GMT express:application set "env" to 'development'
+Fri, 27 Sep 2019 01:44:42 GMT express:application set "query parser" to 'extended'
+Fri, 27 Sep 2019 01:44:42 GMT express:application set "query parser fn" to [Function: parseExtendedQueryString]
+Fri, 27 Sep 2019 01:44:42 GMT express:application set "subdomain offset" to 2
+Fri, 27 Sep 2019 01:44:42 GMT express:application set "trust proxy" to false
+Fri, 27 Sep 2019 01:44:42 GMT express:application set "trust proxy fn" to [Function: trustNone]
+Fri, 27 Sep 2019 01:44:42 GMT express:application booting in development mode
+Fri, 27 Sep 2019 01:44:42 GMT express:application set "view" to [Function: View]
+Fri, 27 Sep 2019 01:44:42 GMT express:application set "views" to '/Users/gustavolopes/Documents/Estudos/nodejs-casa-do-codigo/ntalk/views'
+Fri, 27 Sep 2019 01:44:42 GMT express:application set "jsonp callback name" to 'callback'
+2019-09-27T01:44:42.406Z socket.io:server initializing namespace /
+Fri, 27 Sep 2019 01:44:42 GMT express:application set "x-powered-by" to true
+2019-09-27T01:44:42.407Z socket.io-parser encoding packet {"type":0,"nsp":"/"}
+2019-09-27T01:44:42.408Z socket.io-parser encoded {"type":0,"nsp":"/"} as 0
+2019-09-27T01:44:42.408Z socket.io:server creating engine.io instance with opts {"path":"/socket.io","initialPacket":["0"]}
+Fri, 27 Sep 2019 01:44:42 GMT express:application set "etag" to 'weak'
+Fri, 27 Sep 2019 01:44:42 GMT express:application set "etag fn" to [Function: generateETag]
+Fri, 27 Sep 2019 01:44:42 GMT express:application set "env" to 'development'
+Fri, 27 Sep 2019 01:44:42 GMT express:application set "query parser" to 'extended'
+Fri, 27 Sep 2019 01:44:42 GMT express:application set "query parser fn" to [Function: parseExtendedQueryString]
+Fri, 27 Sep 2019 01:44:42 GMT express:application set "subdomain offset" to 2
+Fri, 27 Sep 2019 01:44:42 GMT express:application set "trust proxy" to false
+Fri, 27 Sep 2019 01:44:42 GMT express:application set "x-powered-by" to true
+Fri, 27 Sep 2019 01:44:42 GMT express:application set "etag" to 'weak'
+Fri, 27 Sep 2019 01:44:42 GMT express:application set "trust proxy fn" to [Function: trustNone]
+Fri, 27 Sep 2019 01:44:42 GMT express:application booting in development mode
+Fri, 27 Sep 2019 01:44:42 GMT express:application set "view" to [Function: View]
+Fri, 27 Sep 2019 01:44:42 GMT express:application set "views" to '/Users/gustavolopes/Documents/Estudos/nodejs-casa-do-codigo/ntalk/views'
+Fri, 27 Sep 2019 01:44:42 GMT express:application set "jsonp callback name" to 'callback'
+Fri, 27 Sep 2019 01:44:42 GMT express:application set "etag fn" to [Function: generateETag]
+Fri, 27 Sep 2019 01:44:42 GMT express:application set "env" to 'development'
+Fri, 27 Sep 2019 01:44:42 GMT express:application set "query parser" to 'extended'
+Fri, 27 Sep 2019 01:44:42 GMT express:application set "query parser fn" to [Function: parseExtendedQueryString]
+Fri, 27 Sep 2019 01:44:42 GMT express:application set "subdomain offset" to 2
+Fri, 27 Sep 2019 01:44:42 GMT express:application set "trust proxy" to false
+Fri, 27 Sep 2019 01:44:42 GMT express:application set "trust proxy fn" to [Function: trustNone]
+2019-09-27T01:44:42.429Z socket.io:server initializing namespace /
+2019-09-27T01:44:42.431Z socket.io-parser encoding packet {"type":0,"nsp":"/"}
+2019-09-27T01:44:42.432Z socket.io-parser encoded {"type":0,"nsp":"/"} as 0
+Fri, 27 Sep 2019 01:44:42 GMT express:application booting in development mode
+2019-09-27T01:44:42.432Z socket.io:server creating engine.io instance with opts {"path":"/socket.io","initialPacket":["0"]}
+Fri, 27 Sep 2019 01:44:42 GMT express:application set "view" to [Function: View]
+Fri, 27 Sep 2019 01:44:42 GMT express:application set "views" to '/Users/gustavolopes/Documents/Estudos/nodejs-casa-do-codigo/ntalk/views'
+Fri, 27 Sep 2019 01:44:42 GMT express:application set "jsonp callback name" to 'callback'
+2019-09-27T01:44:42.439Z socket.io:server initializing namespace /
+2019-09-27T01:44:42.441Z socket.io-parser encoding packet {"type":0,"nsp":"/"}
+2019-09-27T01:44:42.441Z socket.io:server attaching client serving req handler
+2019-09-27T01:44:42.441Z socket.io-parser encoded {"type":0,"nsp":"/"} as 0
+2019-09-27T01:44:42.442Z socket.io:server creating engine.io instance with opts {"path":"/socket.io","initialPacket":["0"]}
+Fri, 27 Sep 2019 01:44:42 GMT express:application set "x-powered-by" to true
+Fri, 27 Sep 2019 01:44:42 GMT express:application set "etag" to 'weak'
+Fri, 27 Sep 2019 01:44:42 GMT express:application set "x-powered-by" to false
+Fri, 27 Sep 2019 01:44:42 GMT express:application set "views" to '/Users/gustavolopes/Documents/Estudos/nodejs-casa-do-codigo/ntalk/views'
+Fri, 27 Sep 2019 01:44:42 GMT express:application set "etag fn" to [Function: generateETag]
+Fri, 27 Sep 2019 01:44:42 GMT express:application set "view engine" to 'ejs'
+Fri, 27 Sep 2019 01:44:42 GMT express:application set "env" to 'development'
+Fri, 27 Sep 2019 01:44:42 GMT express:application set "query parser" to 'extended'
+Fri, 27 Sep 2019 01:44:42 GMT express:application set "query parser fn" to [Function: parseExtendedQueryString]
+Fri, 27 Sep 2019 01:44:42 GMT express:application set "subdomain offset" to 2
+Fri, 27 Sep 2019 01:44:42 GMT express:application set "trust proxy" to false
+Fri, 27 Sep 2019 01:44:42 GMT express:application set "trust proxy fn" to [Function: trustNone]
+Fri, 27 Sep 2019 01:44:42 GMT express:router use '/' query
+Fri, 27 Sep 2019 01:44:42 GMT express:application booting in development mode
+Fri, 27 Sep 2019 01:44:42 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:42 GMT express:application set "view" to [Function: View]
+Fri, 27 Sep 2019 01:44:42 GMT express:application set "views" to '/Users/gustavolopes/Documents/Estudos/nodejs-casa-do-codigo/ntalk/views'
+Fri, 27 Sep 2019 01:44:42 GMT express:application set "jsonp callback name" to 'callback'
+Fri, 27 Sep 2019 01:44:42 GMT express:router use '/' expressInit
+Fri, 27 Sep 2019 01:44:42 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:42 GMT express:router use '/' compression
+Fri, 27 Sep 2019 01:44:42 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:42 GMT express-session deprecated undefined resave option; provide resave option at app.js:27:9
+Fri, 27 Sep 2019 01:44:42 GMT express-session deprecated undefined saveUninitialized option; provide saveUninitialized option at app.js:27:9
+Fri, 27 Sep 2019 01:44:42 GMT express:router use '/' session
+Fri, 27 Sep 2019 01:44:42 GMT express:router:layer new '/'
+2019-09-27T01:44:42.457Z socket.io:server initializing namespace /
+2019-09-27T01:44:42.458Z socket.io:server attaching client serving req handler
+2019-09-27T01:44:42.458Z socket.io-parser encoding packet {"type":0,"nsp":"/"}
+2019-09-27T01:44:42.459Z socket.io-parser encoded {"type":0,"nsp":"/"} as 0
+2019-09-27T01:44:42.459Z socket.io:server creating engine.io instance with opts {"path":"/socket.io","initialPacket":["0"]}
+Fri, 27 Sep 2019 01:44:42 GMT express:application set "x-powered-by" to false
+Fri, 27 Sep 2019 01:44:42 GMT express:application set "views" to '/Users/gustavolopes/Documents/Estudos/nodejs-casa-do-codigo/ntalk/views'
+Fri, 27 Sep 2019 01:44:42 GMT express:application set "view engine" to 'ejs'
+2019-09-27T01:44:42.465Z socket.io:server attaching client serving req handler
+Fri, 27 Sep 2019 01:44:42 GMT express:router use '/' query
+Fri, 27 Sep 2019 01:44:42 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:42 GMT express:router use '/' expressInit
+Fri, 27 Sep 2019 01:44:42 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:42 GMT express:router use '/' compression
+Fri, 27 Sep 2019 01:44:42 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:42 GMT express-session deprecated undefined resave option; provide resave option at app.js:27:9
+Fri, 27 Sep 2019 01:44:42 GMT express-session deprecated undefined saveUninitialized option; provide saveUninitialized option at app.js:27:9
+Fri, 27 Sep 2019 01:44:42 GMT express:router use '/' session
+Fri, 27 Sep 2019 01:44:42 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:42 GMT express:router use '/' jsonParser
+Fri, 27 Sep 2019 01:44:42 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:42 GMT body-parser deprecated undefined extended: provide extended option at app.js:33:20
+Fri, 27 Sep 2019 01:44:42 GMT express:application set "x-powered-by" to false
+Fri, 27 Sep 2019 01:44:42 GMT express:application set "views" to '/Users/gustavolopes/Documents/Estudos/nodejs-casa-do-codigo/ntalk/views'
+Fri, 27 Sep 2019 01:44:42 GMT express:application set "view engine" to 'ejs'
+2019-09-27T01:44:42.476Z socket.io:server attaching client serving req handler
+Fri, 27 Sep 2019 01:44:42 GMT express:router use '/' query
+Fri, 27 Sep 2019 01:44:42 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:42 GMT express:router use '/' expressInit
+Fri, 27 Sep 2019 01:44:42 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:42 GMT express:router use '/' compression
+Fri, 27 Sep 2019 01:44:42 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:42 GMT express-session deprecated undefined resave option; provide resave option at app.js:27:9
+Fri, 27 Sep 2019 01:44:42 GMT express-session deprecated undefined saveUninitialized option; provide saveUninitialized option at app.js:27:9
+Fri, 27 Sep 2019 01:44:42 GMT express:router use '/' session
+Fri, 27 Sep 2019 01:44:42 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:42 GMT express:application set "x-powered-by" to false
+Fri, 27 Sep 2019 01:44:42 GMT express:application set "views" to '/Users/gustavolopes/Documents/Estudos/nodejs-casa-do-codigo/ntalk/views'
+Fri, 27 Sep 2019 01:44:42 GMT express:application set "view engine" to 'ejs'
+Fri, 27 Sep 2019 01:44:42 GMT express:router use '/' urlencodedParser
+Fri, 27 Sep 2019 01:44:42 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:42 GMT express:router use '/' methodOverride
+Fri, 27 Sep 2019 01:44:42 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:42 GMT express:router use '/' serveStatic
+Fri, 27 Sep 2019 01:44:42 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:42 GMT express:router use '/' csrf
+Fri, 27 Sep 2019 01:44:42 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:42 GMT express:router use '/' <anonymous>
+Fri, 27 Sep 2019 01:44:42 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:42 GMT express:router use '/' query
+Fri, 27 Sep 2019 01:44:42 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:42 GMT express:router use '/' jsonParser
+Fri, 27 Sep 2019 01:44:42 GMT express:router use '/' expressInit
+Fri, 27 Sep 2019 01:44:42 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:42 GMT express:router use '/' compression
+Fri, 27 Sep 2019 01:44:42 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:42 GMT express-session deprecated undefined resave option; provide resave option at app.js:27:9
+Fri, 27 Sep 2019 01:44:42 GMT express-session deprecated undefined saveUninitialized option; provide saveUninitialized option at app.js:27:9
+Fri, 27 Sep 2019 01:44:42 GMT express:router use '/' session
+Fri, 27 Sep 2019 01:44:42 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:42 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:42 GMT body-parser deprecated undefined extended: provide extended option at app.js:33:20
+2019-09-27T01:44:42.497Z socket.io:namespace removing initial packet
+Fri, 27 Sep 2019 01:44:42 GMT express:router use '/' jsonParser
+Fri, 27 Sep 2019 01:44:42 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:42 GMT body-parser deprecated undefined extended: provide extended option at app.js:33:20
+Fri, 27 Sep 2019 01:44:42 GMT express:router use '/' urlencodedParser
+Fri, 27 Sep 2019 01:44:42 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:42 GMT express:router use '/' methodOverride
+Fri, 27 Sep 2019 01:44:42 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:42 GMT express:router use '/' serveStatic
+Fri, 27 Sep 2019 01:44:42 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:42 GMT express:router use '/' csrf
+Fri, 27 Sep 2019 01:44:42 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:42 GMT express:router use '/' <anonymous>
+Fri, 27 Sep 2019 01:44:42 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:42 GMT express:router use '/' urlencodedParser
+Fri, 27 Sep 2019 01:44:42 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:42 GMT express:router use '/' methodOverride
+Fri, 27 Sep 2019 01:44:42 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:42 GMT express:router use '/' serveStatic
+Fri, 27 Sep 2019 01:44:42 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:42 GMT express:router use '/' jsonParser
+Fri, 27 Sep 2019 01:44:42 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:42 GMT express:router use '/' csrf
+Fri, 27 Sep 2019 01:44:42 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:42 GMT express:router use '/' <anonymous>
+Fri, 27 Sep 2019 01:44:42 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:42 GMT body-parser deprecated undefined extended: provide extended option at app.js:33:20
+Fri, 27 Sep 2019 01:44:42 GMT express:router use '/' urlencodedParser
+Fri, 27 Sep 2019 01:44:42 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:42 GMT express:router use '/' methodOverride
+Fri, 27 Sep 2019 01:44:42 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:42 GMT express:router use '/' serveStatic
+Fri, 27 Sep 2019 01:44:42 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:42 GMT express:router use '/' csrf
+Fri, 27 Sep 2019 01:44:42 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:42 GMT express:router use '/' <anonymous>
+Fri, 27 Sep 2019 01:44:42 GMT express:router:layer new '/'
+2019-09-27T01:44:42.519Z socket.io:namespace removing initial packet
+2019-09-27T01:44:42.526Z socket.io:namespace removing initial packet
+2019-09-27T01:44:42.584Z socket.io:namespace removing initial packet
+Fri, 27 Sep 2019 01:44:43 GMT express:router:route new '/chat'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/chat'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:route get '/chat'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:route get '/chat'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:route new '/contatos'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/contatos'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:route get '/contatos'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:route get '/contatos'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:route new '/contato/:id'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/contato/:id'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:route get '/contato/:id'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:route get '/contato/:id'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:route new '/contato'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/contato'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:route post '/contato'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:route post '/contato'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:route new '/contato/:id/editar'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/contato/:id/editar'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:route get '/contato/:id/editar'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:route get '/contato/:id/editar'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:route new '/contato/:id'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/contato/:id'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:route put '/contato/:id'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:route put '/contato/:id'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:route new '/contato/:id'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/contato/:id'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:route delete '/contato/:id'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:route delete '/contato/:id'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:route new '/'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:route get '/'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:route new '/entrar'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/entrar'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:route post '/entrar'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:route new '/sair'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/sair'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:route get '/sair'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:43 GMT express:router use '/' <anonymous>
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:43 GMT express:router use '/' <anonymous>
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:route new '/chat'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/chat'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:route get '/chat'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:route get '/chat'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/'
+2019-09-27T01:44:43.141Z connect:redis Redis returned err { Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379 }
+Fri, 27 Sep 2019 01:44:43 GMT express:router:route new '/contatos'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:route new '/chat'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/contatos'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/chat'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:route get '/contatos'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:route get '/contatos'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:route get '/chat'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:route new '/contato/:id'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/contato/:id'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:route get '/chat'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:route get '/contato/:id'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:route get '/contato/:id'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:route new '/contato'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/contato'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:route post '/contato'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:route new '/contatos'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:route post '/contato'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/contatos'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:route new '/contato/:id/editar'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/contato/:id/editar'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:route get '/contatos'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:route get '/contato/:id/editar'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:route get '/contatos'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:route get '/contato/:id/editar'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:route new '/contato/:id'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/contato/:id'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:route new '/contato/:id'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/contato/:id'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:route put '/contato/:id'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:route put '/contato/:id'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:route new '/contato/:id'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/contato/:id'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:route delete '/contato/:id'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:route get '/contato/:id'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:route get '/contato/:id'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:route new '/contato'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/contato'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:route post '/contato'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:route delete '/contato/:id'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:route post '/contato'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:route new '/contato/:id/editar'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/contato/:id/editar'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:route get '/contato/:id/editar'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:route get '/contato/:id/editar'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:route new '/contato/:id'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/contato/:id'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:route put '/contato/:id'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:route put '/contato/:id'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:route new '/contato/:id'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/contato/:id'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:route delete '/contato/:id'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:route new '/'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:route delete '/contato/:id'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:route get '/'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:route new '/entrar'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/entrar'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:route post '/entrar'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:route new '/sair'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/sair'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:route get '/sair'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:route new '/'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:43 GMT express:router use '/' <anonymous>
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:43 GMT express:router use '/' <anonymous>
+events.js:174
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to localhost:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+Emitted 'error' event at:
+    at RedisClient.onError (/Users/gustavolopes/Documents/Estudos/nodejs-casa-do-codigo/ntalk/node_modules/socket.io-redis/index.js:118:12)
+    at RedisClient.emit (events.js:198:13)
+    at RedisClient.on_error (/Users/gustavolopes/Documents/Estudos/nodejs-casa-do-codigo/ntalk/node_modules/redis/index.js:406:14)
+    at Socket.<anonymous> (/Users/gustavolopes/Documents/Estudos/nodejs-casa-do-codigo/ntalk/node_modules/redis/index.js:279:14)
+    at Socket.emit (events.js:198:13)
+    at emitErrorNT (internal/streams/destroy.js:91:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:59:3)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:route get '/'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:route new '/entrar'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/entrar'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:route post '/entrar'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:route new '/sair'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/sair'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:route get '/sair'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:43 GMT express:router use '/' <anonymous>
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:43 GMT express:router use '/' <anonymous>
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/'
+2019-09-27T01:44:43.172Z connect:redis Redis returned err { Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379 }
+2019-09-27T01:44:43.173Z connect:redis Redis returned err { Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379 }
+events.js:174
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to localhost:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+Emitted 'error' event at:
+    at RedisClient.onError (/Users/gustavolopes/Documents/Estudos/nodejs-casa-do-codigo/ntalk/node_modules/socket.io-redis/index.js:118:12)
+    at RedisClient.emit (events.js:198:13)
+    at RedisClient.on_error (/Users/gustavolopes/Documents/Estudos/nodejs-casa-do-codigo/ntalk/node_modules/redis/index.js:406:14)
+    at Socket.<anonymous> (/Users/gustavolopes/Documents/Estudos/nodejs-casa-do-codigo/ntalk/node_modules/redis/index.js:279:14)
+    at Socket.emit (events.js:198:13)
+    at emitErrorNT (internal/streams/destroy.js:91:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:59:3)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+events.js:174
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to localhost:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+Emitted 'error' event at:
+    at RedisClient.onError (/Users/gustavolopes/Documents/Estudos/nodejs-casa-do-codigo/ntalk/node_modules/socket.io-redis/index.js:118:12)
+    at RedisClient.emit (events.js:198:13)
+    at RedisClient.on_error (/Users/gustavolopes/Documents/Estudos/nodejs-casa-do-codigo/ntalk/node_modules/redis/index.js:406:14)
+    at Socket.<anonymous> (/Users/gustavolopes/Documents/Estudos/nodejs-casa-do-codigo/ntalk/node_modules/redis/index.js:279:14)
+    at Socket.emit (events.js:198:13)
+    at emitErrorNT (internal/streams/destroy.js:91:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:59:3)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+Fri, 27 Sep 2019 01:44:43 GMT express:router:route new '/chat'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/chat'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:route get '/chat'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:route get '/chat'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:route new '/contatos'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/contatos'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:route get '/contatos'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:route get '/contatos'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:route new '/contato/:id'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/contato/:id'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:route get '/contato/:id'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:route get '/contato/:id'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:route new '/contato'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/contato'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:route post '/contato'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:route post '/contato'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:route new '/contato/:id/editar'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/contato/:id/editar'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:route get '/contato/:id/editar'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:route get '/contato/:id/editar'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:route new '/contato/:id'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/contato/:id'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:route put '/contato/:id'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:route put '/contato/:id'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:route new '/contato/:id'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/contato/:id'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:route delete '/contato/:id'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:route delete '/contato/:id'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:route new '/'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:route get '/'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:route new '/entrar'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/entrar'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:route post '/entrar'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:route new '/sair'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/sair'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:route get '/sair'
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:43 GMT express:router use '/' <anonymous>
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:43 GMT express:router use '/' <anonymous>
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/'
+2019-09-27T01:44:43.231Z connect:redis Redis returned err { Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379 }
+events.js:174
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to localhost:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+Emitted 'error' event at:
+    at RedisClient.onError (/Users/gustavolopes/Documents/Estudos/nodejs-casa-do-codigo/ntalk/node_modules/socket.io-redis/index.js:118:12)
+    at RedisClient.emit (events.js:198:13)
+    at RedisClient.on_error (/Users/gustavolopes/Documents/Estudos/nodejs-casa-do-codigo/ntalk/node_modules/redis/index.js:406:14)
+    at Socket.<anonymous> (/Users/gustavolopes/Documents/Estudos/nodejs-casa-do-codigo/ntalk/node_modules/redis/index.js:279:14)
+    at Socket.emit (events.js:198:13)
+    at emitErrorNT (internal/streams/destroy.js:91:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:59:3)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+Fri, 27 Sep 2019 01:44:43 GMT express:application set "x-powered-by" to true
+Fri, 27 Sep 2019 01:44:43 GMT express:application set "etag" to 'weak'
+Fri, 27 Sep 2019 01:44:43 GMT express:application set "etag fn" to [Function: generateETag]
+Fri, 27 Sep 2019 01:44:43 GMT express:application set "env" to 'development'
+Fri, 27 Sep 2019 01:44:43 GMT express:application set "query parser" to 'extended'
+Fri, 27 Sep 2019 01:44:43 GMT express:application set "query parser fn" to [Function: parseExtendedQueryString]
+Fri, 27 Sep 2019 01:44:43 GMT express:application set "subdomain offset" to 2
+Fri, 27 Sep 2019 01:44:43 GMT express:application set "trust proxy" to false
+Fri, 27 Sep 2019 01:44:43 GMT express:application set "trust proxy fn" to [Function: trustNone]
+Fri, 27 Sep 2019 01:44:43 GMT express:application booting in development mode
+Fri, 27 Sep 2019 01:44:43 GMT express:application set "view" to [Function: View]
+Fri, 27 Sep 2019 01:44:43 GMT express:application set "views" to '/Users/gustavolopes/Documents/Estudos/nodejs-casa-do-codigo/ntalk/views'
+Fri, 27 Sep 2019 01:44:43 GMT express:application set "jsonp callback name" to 'callback'
+2019-09-27T01:44:43.944Z socket.io:server initializing namespace /
+2019-09-27T01:44:43.945Z socket.io-parser encoding packet {"type":0,"nsp":"/"}
+2019-09-27T01:44:43.945Z socket.io-parser encoded {"type":0,"nsp":"/"} as 0
+2019-09-27T01:44:43.946Z socket.io:server creating engine.io instance with opts {"path":"/socket.io","initialPacket":["0"]}
+Fri, 27 Sep 2019 01:44:43 GMT express:application set "x-powered-by" to true
+Fri, 27 Sep 2019 01:44:43 GMT express:application set "etag" to 'weak'
+Fri, 27 Sep 2019 01:44:43 GMT express:application set "etag fn" to [Function: generateETag]
+Fri, 27 Sep 2019 01:44:43 GMT express:application set "env" to 'development'
+Fri, 27 Sep 2019 01:44:43 GMT express:application set "query parser" to 'extended'
+Fri, 27 Sep 2019 01:44:43 GMT express:application set "query parser fn" to [Function: parseExtendedQueryString]
+Fri, 27 Sep 2019 01:44:43 GMT express:application set "x-powered-by" to true
+Fri, 27 Sep 2019 01:44:43 GMT express:application set "etag" to 'weak'
+Fri, 27 Sep 2019 01:44:43 GMT express:application set "subdomain offset" to 2
+Fri, 27 Sep 2019 01:44:43 GMT express:application set "trust proxy" to false
+Fri, 27 Sep 2019 01:44:43 GMT express:application set "trust proxy fn" to [Function: trustNone]
+Fri, 27 Sep 2019 01:44:43 GMT express:application booting in development mode
+Fri, 27 Sep 2019 01:44:43 GMT express:application set "etag fn" to [Function: generateETag]
+Fri, 27 Sep 2019 01:44:43 GMT express:application set "env" to 'development'
+Fri, 27 Sep 2019 01:44:43 GMT express:application set "view" to [Function: View]
+Fri, 27 Sep 2019 01:44:43 GMT express:application set "query parser" to 'extended'
+Fri, 27 Sep 2019 01:44:43 GMT express:application set "query parser fn" to [Function: parseExtendedQueryString]
+Fri, 27 Sep 2019 01:44:43 GMT express:application set "views" to '/Users/gustavolopes/Documents/Estudos/nodejs-casa-do-codigo/ntalk/views'
+Fri, 27 Sep 2019 01:44:43 GMT express:application set "jsonp callback name" to 'callback'
+Fri, 27 Sep 2019 01:44:43 GMT express:application set "subdomain offset" to 2
+Fri, 27 Sep 2019 01:44:43 GMT express:application set "x-powered-by" to true
+2019-09-27T01:44:43.969Z socket.io:server attaching client serving req handler
+2019-09-27T01:44:43.969Z socket.io:server initializing namespace /
+Fri, 27 Sep 2019 01:44:43 GMT express:application set "etag" to 'weak'
+2019-09-27T01:44:43.971Z socket.io-parser encoding packet {"type":0,"nsp":"/"}
+Fri, 27 Sep 2019 01:44:43 GMT express:application set "etag fn" to [Function: generateETag]
+2019-09-27T01:44:43.972Z socket.io-parser encoded {"type":0,"nsp":"/"} as 0
+Fri, 27 Sep 2019 01:44:43 GMT express:application set "env" to 'development'
+Fri, 27 Sep 2019 01:44:43 GMT express:application set "query parser" to 'extended'
+Fri, 27 Sep 2019 01:44:43 GMT express:application set "query parser fn" to [Function: parseExtendedQueryString]
+2019-09-27T01:44:43.972Z socket.io:server creating engine.io instance with opts {"path":"/socket.io","initialPacket":["0"]}
+Fri, 27 Sep 2019 01:44:43 GMT express:application set "subdomain offset" to 2
+Fri, 27 Sep 2019 01:44:43 GMT express:application set "trust proxy" to false
+Fri, 27 Sep 2019 01:44:43 GMT express:application set "trust proxy" to false
+Fri, 27 Sep 2019 01:44:43 GMT express:application set "trust proxy fn" to [Function: trustNone]
+Fri, 27 Sep 2019 01:44:43 GMT express:application booting in development mode
+Fri, 27 Sep 2019 01:44:43 GMT express:application set "view" to [Function: View]
+Fri, 27 Sep 2019 01:44:43 GMT express:application set "views" to '/Users/gustavolopes/Documents/Estudos/nodejs-casa-do-codigo/ntalk/views'
+Fri, 27 Sep 2019 01:44:43 GMT express:application set "jsonp callback name" to 'callback'
+Fri, 27 Sep 2019 01:44:43 GMT express:application set "trust proxy fn" to [Function: trustNone]
+Fri, 27 Sep 2019 01:44:43 GMT express:application booting in development mode
+Fri, 27 Sep 2019 01:44:43 GMT express:application set "view" to [Function: View]
+Fri, 27 Sep 2019 01:44:43 GMT express:application set "views" to '/Users/gustavolopes/Documents/Estudos/nodejs-casa-do-codigo/ntalk/views'
+Fri, 27 Sep 2019 01:44:43 GMT express:application set "jsonp callback name" to 'callback'
+2019-09-27T01:44:43.979Z socket.io:server initializing namespace /
+2019-09-27T01:44:43.981Z socket.io-parser encoding packet {"type":0,"nsp":"/"}
+2019-09-27T01:44:43.981Z socket.io-parser encoded {"type":0,"nsp":"/"} as 0
+2019-09-27T01:44:43.982Z socket.io:server creating engine.io instance with opts {"path":"/socket.io","initialPacket":["0"]}
+Fri, 27 Sep 2019 01:44:43 GMT express:application set "x-powered-by" to false
+Fri, 27 Sep 2019 01:44:43 GMT express:application set "views" to '/Users/gustavolopes/Documents/Estudos/nodejs-casa-do-codigo/ntalk/views'
+Fri, 27 Sep 2019 01:44:43 GMT express:application set "view engine" to 'ejs'
+Fri, 27 Sep 2019 01:44:43 GMT express:router use '/' query
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/'
+2019-09-27T01:44:43.984Z socket.io:server initializing namespace /
+Fri, 27 Sep 2019 01:44:43 GMT express:router use '/' expressInit
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:43 GMT express:router use '/' compression
+2019-09-27T01:44:43.986Z socket.io-parser encoding packet {"type":0,"nsp":"/"}
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/'
+2019-09-27T01:44:43.986Z socket.io-parser encoded {"type":0,"nsp":"/"} as 0
+2019-09-27T01:44:43.986Z socket.io:server creating engine.io instance with opts {"path":"/socket.io","initialPacket":["0"]}
+Fri, 27 Sep 2019 01:44:43 GMT express-session deprecated undefined resave option; provide resave option at app.js:27:9
+Fri, 27 Sep 2019 01:44:43 GMT express-session deprecated undefined saveUninitialized option; provide saveUninitialized option at app.js:27:9
+Fri, 27 Sep 2019 01:44:43 GMT express:router use '/' session
+Fri, 27 Sep 2019 01:44:43 GMT express:router:layer new '/'
+2019-09-27T01:44:44.025Z socket.io:server attaching client serving req handler
+Fri, 27 Sep 2019 01:44:44 GMT express:router use '/' jsonParser
+Fri, 27 Sep 2019 01:44:44 GMT express:application set "x-powered-by" to false
+Fri, 27 Sep 2019 01:44:44 GMT express:application set "views" to '/Users/gustavolopes/Documents/Estudos/nodejs-casa-do-codigo/ntalk/views'
+Fri, 27 Sep 2019 01:44:44 GMT express:application set "view engine" to 'ejs'
+Fri, 27 Sep 2019 01:44:44 GMT express:router use '/' query
+Fri, 27 Sep 2019 01:44:44 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:44 GMT express:router use '/' expressInit
+Fri, 27 Sep 2019 01:44:44 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:44 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:44 GMT body-parser deprecated undefined extended: provide extended option at app.js:33:20
+2019-09-27T01:44:44.039Z socket.io:server attaching client serving req handler
+2019-09-27T01:44:44.041Z socket.io:server attaching client serving req handler
+Fri, 27 Sep 2019 01:44:44 GMT express:router use '/' urlencodedParser
+Fri, 27 Sep 2019 01:44:44 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:44 GMT express:router use '/' methodOverride
+Fri, 27 Sep 2019 01:44:44 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:44 GMT express:router use '/' serveStatic
+Fri, 27 Sep 2019 01:44:44 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:44 GMT express:router use '/' csrf
+Fri, 27 Sep 2019 01:44:44 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:44 GMT express:router use '/' <anonymous>
+Fri, 27 Sep 2019 01:44:44 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:44 GMT express:router use '/' compression
+Fri, 27 Sep 2019 01:44:44 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:44 GMT express-session deprecated undefined resave option; provide resave option at app.js:27:9
+Fri, 27 Sep 2019 01:44:44 GMT express-session deprecated undefined saveUninitialized option; provide saveUninitialized option at app.js:27:9
+Fri, 27 Sep 2019 01:44:44 GMT express:router use '/' session
+Fri, 27 Sep 2019 01:44:44 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:44 GMT express:application set "x-powered-by" to false
+Fri, 27 Sep 2019 01:44:44 GMT express:application set "views" to '/Users/gustavolopes/Documents/Estudos/nodejs-casa-do-codigo/ntalk/views'
+Fri, 27 Sep 2019 01:44:44 GMT express:application set "view engine" to 'ejs'
+Fri, 27 Sep 2019 01:44:44 GMT express:router use '/' query
+Fri, 27 Sep 2019 01:44:44 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:44 GMT express:router use '/' expressInit
+Fri, 27 Sep 2019 01:44:44 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:44 GMT express:router use '/' compression
+Fri, 27 Sep 2019 01:44:44 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:44 GMT express-session deprecated undefined resave option; provide resave option at app.js:27:9
+Fri, 27 Sep 2019 01:44:44 GMT express-session deprecated undefined saveUninitialized option; provide saveUninitialized option at app.js:27:9
+Fri, 27 Sep 2019 01:44:44 GMT express:router use '/' session
+Fri, 27 Sep 2019 01:44:44 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:44 GMT express:application set "x-powered-by" to false
+Fri, 27 Sep 2019 01:44:44 GMT express:application set "views" to '/Users/gustavolopes/Documents/Estudos/nodejs-casa-do-codigo/ntalk/views'
+Fri, 27 Sep 2019 01:44:44 GMT express:application set "view engine" to 'ejs'
+Fri, 27 Sep 2019 01:44:44 GMT express:router use '/' query
+Fri, 27 Sep 2019 01:44:44 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:44 GMT express:router use '/' expressInit
+Fri, 27 Sep 2019 01:44:44 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:44 GMT express:router use '/' compression
+Fri, 27 Sep 2019 01:44:44 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:44 GMT express-session deprecated undefined resave option; provide resave option at app.js:27:9
+Fri, 27 Sep 2019 01:44:44 GMT express-session deprecated undefined saveUninitialized option; provide saveUninitialized option at app.js:27:9
+Fri, 27 Sep 2019 01:44:44 GMT express:router use '/' session
+Fri, 27 Sep 2019 01:44:44 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:44 GMT express:router use '/' jsonParser
+Fri, 27 Sep 2019 01:44:44 GMT express:router:layer new '/'
+2019-09-27T01:44:44.076Z socket.io:namespace removing initial packet
+Fri, 27 Sep 2019 01:44:44 GMT body-parser deprecated undefined extended: provide extended option at app.js:33:20
+Fri, 27 Sep 2019 01:44:44 GMT express:router use '/' jsonParser
+Fri, 27 Sep 2019 01:44:44 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:44 GMT express:router use '/' urlencodedParser
+Fri, 27 Sep 2019 01:44:44 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:44 GMT express:router use '/' methodOverride
+Fri, 27 Sep 2019 01:44:44 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:44 GMT express:router use '/' jsonParser
+Fri, 27 Sep 2019 01:44:44 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:44 GMT express:router use '/' serveStatic
+Fri, 27 Sep 2019 01:44:44 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:44 GMT body-parser deprecated undefined extended: provide extended option at app.js:33:20
+Fri, 27 Sep 2019 01:44:44 GMT express:router use '/' csrf
+Fri, 27 Sep 2019 01:44:44 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:44 GMT express:router use '/' <anonymous>
+Fri, 27 Sep 2019 01:44:44 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:44 GMT body-parser deprecated undefined extended: provide extended option at app.js:33:20
+Fri, 27 Sep 2019 01:44:44 GMT express:router use '/' urlencodedParser
+Fri, 27 Sep 2019 01:44:44 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:44 GMT express:router use '/' methodOverride
+Fri, 27 Sep 2019 01:44:44 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:44 GMT express:router use '/' serveStatic
+Fri, 27 Sep 2019 01:44:44 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:44 GMT express:router use '/' csrf
+Fri, 27 Sep 2019 01:44:44 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:44 GMT express:router use '/' <anonymous>
+Fri, 27 Sep 2019 01:44:44 GMT express:router use '/' urlencodedParser
+Fri, 27 Sep 2019 01:44:44 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:44 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:44 GMT express:router use '/' methodOverride
+Fri, 27 Sep 2019 01:44:44 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:44 GMT express:router use '/' serveStatic
+Fri, 27 Sep 2019 01:44:44 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:44 GMT express:router use '/' csrf
+Fri, 27 Sep 2019 01:44:44 GMT express:router:layer new '/'
+Fri, 27 Sep 2019 01:44:44 GMT express:router use '/' <anonymous>
+Fri, 27 Sep 2019 01:44:44 GMT express:router:layer new '/'
+2019-09-27T01:44:44.106Z socket.io:namespace removing initial packet
+2019-09-27T01:44:44.118Z socket.io:namespace removing initial packet
+2019-09-27T01:44:44.125Z socket.io:namespace removing initial packet
